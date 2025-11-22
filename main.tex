@@ -1,0 +1,200 @@
+\documentclass[
+12pt, a4paper, twoside, chapter=TITLE, subsection=TITLE, section=TITLE, subsubsection=TITLE, subsubsubsection=TITLE, english, german, brazil
+]{abntex2}
+
+\usepackage[utf8]{inputenc}
+\usepackage[brazilian,hyperpageref]{backref}
+\usepackage{pacotes}
+
+\titulo{Trabalho Sistemas Operacionais \\ 2° Bimestre}
+\tituloestrangeiro{--texto do título estrangeiro--}
+\autor
+{
+Endrews Elias de Oliveira Prado \\
+Jhuan da Matta Julião de Oliveira \\
+Lucas Mattos Canela \\
+Robert Valadão da Silva \\
+Victor Griffo de Andrade Faria
+}
+\orientador{Jean-Remi}
+\coorientador{}
+\data{\today}
+\instituicao{
+    Universidade de Vila Velha (UVV) \par
+    Graduação em Ciência da Computação
+}
+\tipotrabalho{Trabalho Acadêmico}
+\local{Vila Velha, ES}
+%\preambulo{--Trabalho acadêmico como requisito parcial para aprovação na disciplina Sistemas Operacionais--.}
+
+% informações do PDF
+\makeatletter
+\hypersetup{
+    pdftitle={\@title},
+    pdfauthor={\@author},
+    pdfsubject={\imprimirpreambulo},
+    pdfkeywords={PALAVRAS}{CHAVE}{EM}{PORTUGUES},
+    pdfcreator={LaTeX with abnTeX2},
+    colorlinks=true,
+    linkcolor=blue,
+    citecolor=blue,
+    urlcolor=blue
+    }
+\makeatother
+\setlength{\absparsep}{18pt} % ajusta o espaçamento dos parágrafos do resumo
+
+
+% ---
+% compila o indice
+% ---
+\makeindex
+% ---
+ 
+% ---
+% GLOSSARIO
+% ---
+\makeglossaries
+ 
+% ---
+% entradas do glossario
+% ---
+%  \newglossaryentry{pai}{
+%                 name={pai},
+%                 plural={pai},
+%                 description={este é uma entrada pai, que possui outras
+%                 subentradas.} }
+
+%  \newglossaryentry{componente}{
+%                 name={componente},
+%                 plural={componentes},
+%                 parent=pai,
+%                 description={descriação da entrada componente.} }
+ 
+%  \newglossaryentry{filho}{
+%                 name={filho},
+%                 plural={filhos},
+%                 parent=pai,
+%                 description={isto é uma entrada filha da entrada de nome
+%                 \gls{pai}. Trata-se de uma entrada irmã da entrada
+%                 \gls{componente}.} }
+ 
+% \newglossaryentry{equilibrio}{
+%                 name={equilíbrio da configuração},
+%                 see=[veja também]{componente},
+%                 description={consistência entre os \glspl{componente}}
+%                 }
+
+% \newglossaryentry{latex}{
+%                 name={LaTeX},
+%                 description={ferramenta de computador para autoria de
+%                 documentos criada por D. E. Knuth} }
+
+% \newglossaryentry{abntex2}{
+%                 name={abnTeX2},
+%                 see=latex,
+%                 description={suíte para LaTeX que atende os requisitos das
+%                 normas da ABNT para elaboração de documentos técnicos e científicos brasileiros} }
+% % ---
+
+% % ---
+% % Exemplo de configurações do glossairo
+% \renewcommand*{\glsseeformat}[3][\seename]{\textit{#1}  
+%  \glsseelist{#2}}
+% % ---
+
+
+\begin{document}
+\pretextual 
+\imprimircapa
+\imprimirfolhaderosto[]* % talvez dê merda na numeração das páginas
+\makeatother\cleardoublepage
+
+% ---
+% Epígrafe
+% ---
+\begin{epigrafe}
+    \vspace*{\fill}
+	\begin{flushright}
+		\textit
+        {
+            "Grandes poderes trazem \\
+            grandes responsabilidades." \\
+            (Homem-Aranha)
+        }
+	\end{flushright}
+\end{epigrafe}
+% ---
+
+\begin{resumo}[Resumo] 
+    ------- Resumo em português. -----  \\
+    \vspace{\onelineskip}
+    \noindent
+    \textbf{Palavras-chave}: latex. abntex. editoração de texto.
+\end{resumo}
+
+\begin{resumo}[Abstract]
+    \begin{otherlanguage*}{english}
+        ------ abstract. ---- \\
+        \vspace{\onelineskip}
+        \noindent
+        \textbf{Keywords}: latex. abntex. publication de textes.
+    \end{otherlanguage*}
+\end{resumo}
+
+
+\pdfbookmark[0]{\listfigurename}{lof}
+\listoffigures*
+\cleardoublepage
+
+
+% \pdfbookmark[0]{\listtablename}{lot}
+% \listoftables*
+% \cleardoublepage
+
+
+\begin{siglas}
+    \item[sigla] significado da sigla;
+\end{siglas}
+
+
+% \begin{simbolos}
+%     \item[simbolo] descrição;
+% \end{simbolos}
+
+
+\pdfbookmark[0]{\contentsname}{toc}
+\tableofcontents*
+\cleardoublepage
+
+
+\textual % a partir daqui são os elementos textuais.
+% \include{XXX} % adicionar os .tex da pasta inputs
+
+\postextual % a partir daqui são os elementos pós-textuais.
+\bibliography{ref} % O alerta amarelo ("Empty `thebibliography' environment on input line 8.") é porque não há citações ainda
+
+
+\part{Discos}
+
+\chapter{Processo de Boot}
+
+\chapter{Memória Secundária}
+
+\chapter{Partições}
+
+\chapter{Sistema de Arquivos}
+
+\part{Permissões}
+
+\chapter{Grupos, Usuários, Poderes e Permissões}
+
+\chapter{Gerenciamento de Processos}
+
+\chapter{Gerenciamento de Memória Primária}
+
+\addcontentsline{toc}{chapter}{\glossaryname}
+\printglossaries
+
+% \chapter{APÊNDICE}
+% \chapter{anexo}
+\end{document}
