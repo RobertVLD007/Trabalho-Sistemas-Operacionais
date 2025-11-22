@@ -18,10 +18,13 @@
 \RequirePackage[T1]{fontenc} % alguma coisa voltada a fontes, permite a hifenização com caractéreis especiais. Não sei a diferença entre esse e a hifenização do Babel
 %% https://ctan.org/pkg/fontenc
 
+% Use Latin Modern (scalable) fonts so microtype font-expansion works
+\RequirePackage{lmodern}
+
 \RequirePackage{multicol} % permite o uso de mais de uma coluna de texto (é bem bugado, então é melhor evitar usar)
 %% https://ctan.org/pkg/multicol
 
-\RequirePackage{microtype} % para melhorias de justificação
+\RequirePackage[expansion=true]{microtype} % para melhorias de justificação
 %% https://ctan.org/pkg/microtype
 
 \RequirePackage{geometry} % permite a configuração da página: margens, cabeçalho, roda-pé...
