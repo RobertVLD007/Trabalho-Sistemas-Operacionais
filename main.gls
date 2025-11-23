@@ -1,0 +1,122 @@
+\glossarysection[\glossarytoctitle]{\glossarytitle}\glossarypreamble
+\begin{theglossary}\glossaryheader
+\glsgroupheading{A}\relax \glsresetentrylist %
+\glsnextpages \glossentry{abntex2}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}\delimN 
+		\glsseeformat[\seename ]{latex}{Z}}}\glsgroupskip
+\glsgroupheading{B}\relax \glsresetentrylist %
+\glsnextpages \glossentry{bios}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}\delimN 
+		\glsseeformat[\seename ]{boot}{Z}}}%
+\glsnextpages \glossentry{bloco}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}\delimN 
+		\glsseeformat[\seename ]{inode}{Z}}}%
+\glossentry{boot}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}}}%
+\glsnextpages \glossentry{bootloader}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}\delimN 
+		\glsseeformat[\seename ]{boot}{Z}}}\glsgroupskip
+\glsgroupheading{C}\relax \glsresetentrylist %
+\glsnextpages \glossentry{cache}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}\delimN 
+		\glsseeformat[\seename ]{sram}{Z}}}%
+\glsnextpages \glossentry{chs}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}\delimN 
+		\glsseeformat[\seename ]{lba}{Z}}}%
+\glsnextpages \glossentry{cow}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}\delimN 
+		\glsseeformat[\seename ]{inode}{Z}}}\glsgroupskip
+\glsgroupheading{D}\relax \glsresetentrylist %
+\glsnextpages \glossentry{dram}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}\delimN 
+		\glsseeformat[\seename ]{sram}{Z}}}\glsgroupskip
+\glsgroupheading{E}\relax \glsresetentrylist %
+\glsnextpages \glossentry{esp}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}\delimN 
+		\glsseeformat[\seename ]{uefi}{Z}}}\glsgroupskip
+\glsgroupheading{G}\relax \glsresetentrylist %
+\glsnextpages \glossentry{gid}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}\delimN 
+		\glsseeformat[\seename ]{uid}{Z}}}%
+\glsnextpages \glossentry{gpt}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}\delimN 
+		\glsseeformat[\seename ]{mbr}{Z}}}\glsgroupskip
+\glsgroupheading{H}\relax \glsresetentrylist %
+\glossentry{hardlink}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}}}%
+\glsnextpages \glossentry{hdd}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}\delimN 
+		\glsseeformat[\seename ]{ssd}{Z}}}\glsgroupskip
+\glsgroupheading{I}\relax \glsresetentrylist %
+\glsnextpages \glossentry{initramfs}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}\delimN 
+		\glsseeformat[\seename ]{boot}{Z}}}%
+\glossentry{inode}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}}}\glsgroupskip
+\glsgroupheading{J}\relax \glsresetentrylist %
+\glsnextpages \glossentry{journaling}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}\delimN 
+		\glsseeformat[\seename ]{inode}{Z}}}\glsgroupskip
+\glsgroupheading{L}\relax \glsresetentrylist %
+\glossentry{latex}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}}}%
+\glsnextpages \glossentry{lba}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}\delimN 
+		\glsseeformat[\seename ]{chs}{Z}}}%
+\glossentry{softlink}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}}}\glsgroupskip
+\glsgroupheading{M}\relax \glsresetentrylist %
+\glsnextpages \glossentry{mbr}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}\delimN 
+		\glsseeformat[\seename ]{gpt}{Z}}}%
+\glsnextpages \glossentry{memoria-virtual}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}\delimN 
+		\glsseeformat[\seename ]{mmu}{Z}}}%
+\glsnextpages \glossentry{mmu}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}\delimN 
+		\glsseeformat[\seename ]{paginacao}{Z}}}\glsgroupskip
+\glsgroupheading{N}\relax \glsresetentrylist %
+\glsnextpages \glossentry{nvme}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}\delimN 
+		\glsseeformat[\seename ]{ssd}{Z}}}\glsgroupskip
+\glsgroupheading{P}\relax \glsresetentrylist %
+\glsnextpages \glossentry{paginacao}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}\delimN 
+		\glsseeformat[\seename ]{segmentacao}{Z}}}%
+\glsnextpages \glossentry{pcb}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}\delimN 
+		\glsseeformat[\seename ]{pid}{Z}}}%
+\glsnextpages \glossentry{pid}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}\delimN 
+		\glsseeformat[\seename ]{pcb}{Z}}}\glsgroupskip
+\glsgroupheading{R}\relax \glsresetentrylist %
+\glsnextpages \glossentry{root}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}\delimN 
+		\glsseeformat[\seename ]{sudo}{Z}}}\glsgroupskip
+\glsgroupheading{S}\relax \glsresetentrylist %
+\glsnextpages \glossentry{segmentacao}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}\delimN 
+		\glsseeformat[\seename ]{paginacao}{Z}}}%
+\glsnextpages \glossentry{sram}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}\delimN 
+		\glsseeformat[\seename ]{dram}{Z}}}%
+\glsnextpages \glossentry{ssd}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}\delimN 
+		\glsseeformat[\seename ]{nvme}{Z}}}%
+\glsnextpages \glossentry{sudo}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}\delimN 
+		\glsseeformat[\seename ]{root}{Z}}}%
+\glossentry{swapping}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}}}\glsgroupskip
+\glsgroupheading{T}\relax \glsresetentrylist %
+\glsnextpages \glossentry{contexto}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}\delimN 
+		\glsseeformat[\seename ]{pid}{Z}}}\glsgroupskip
+\glsgroupheading{U}\relax \glsresetentrylist %
+\glsnextpages \glossentry{uefi}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}\delimN 
+		\glsseeformat[\seename ]{boot}{Z}}}%
+\glsnextpages \glossentry{uid}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{41}\delimN 
+		\glsseeformat[\seename ]{gid}{Z}}}%
+\end{theglossary}\glossarypostamble

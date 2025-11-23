@@ -3,23 +3,58 @@
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {part}{\partnumberline {I}\MakeTextUppercase []{Discos}}{13}{part.1}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase []{Processo de Boot}}{17}{chapter.1}%
+\contentsline {section}{\numberline {1.1}BIOS e ROM}{17}{section.1.1}%
+\contentsline {section}{\numberline {1.2}UEFI e Legacy}{17}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Gerenciadores de Boot}{18}{section.1.3}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase []{Memória Secundária}}{19}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Discos Rígidos (HDD)}{19}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Unidades de Estado Sólido (SSD)}{19}{section.2.2}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase []{Partições}}{21}{chapter.3}%
+\contentsline {section}{\numberline {3.1}MBR (Master Boot Record)}{21}{section.3.1}%
+\contentsline {section}{\numberline {3.2}GPT (GUID Partition Table)}{22}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Gerenciamento}{22}{section.3.3}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase []{Sistema de Arquivos}}{23}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Conceitos Básicos}{23}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Famílias de Sistemas de Arquivos}{23}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Links}{24}{section.4.3}%
+\contentsline {part}{\partnumberline {II}\MakeTextUppercase []{Permissões}}{25}{part.2}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase []{Grupos, Usuários, Poderes e Permissões}}{27}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Gerenciamento de Usuários e Grupos}{27}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Permissões de Arquivos (Modo Octal e Simbólico)}{28}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Privilégios Especiais}{28}{section.5.3}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase []{Gerenciamento de Processos}}{29}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Identificação e Estrutura}{29}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Estados do Processo}{29}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Monitoramento}{29}{section.6.3}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase []{Gerenciamento de Memória Primária}}{31}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Tipos de Memória}{31}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Técnicas de Gerenciamento}{32}{section.7.2}%
+\contentsline {part}{\partnumberline {III}\MakeTextUppercase []{Exercícios}}{33}{part.3}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {8}\MakeTextUppercase []{Atividades - Capítulo 6}}{35}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Atividade 6.1}{35}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Atividade 6.2}{35}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Atividade 6.3}{35}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Atividade 6.4}{36}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Atividade 6.8}{36}{section.8.5}%
+\contentsline {section}{\numberline {8.6}Atividade 6.9}{36}{section.8.6}%
+\contentsline {section}{\numberline {8.7}Atividade 6.10}{37}{section.8.7}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {9}\MakeTextUppercase []{Atividades - Capítulo 7}}{39}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Atividade 7.6}{39}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Atividade 7.9}{39}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Atividade 7.11}{40}{section.9.3}%
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{\MakeTextUppercase []{Refer\^encias}}{15}{section*.13}%
-\contentsline {part}{\partnumberline {I}\MakeTextUppercase []{Discos}}{17}{part.1}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase []{Processo de Boot}}{19}{chapter.1}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase []{Memória Secundária}}{21}{chapter.2}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase []{Partições}}{23}{chapter.3}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase []{Sistema de Arquivos}}{25}{chapter.4}%
-\contentsline {part}{\partnumberline {II}\MakeTextUppercase []{Permissões}}{27}{part.2}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase []{Grupos, Usuários, Poderes e Permissões}}{29}{chapter.5}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase []{Gerenciamento de Processos}}{31}{chapter.6}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase []{Gerenciamento de Memória Primária}}{33}{chapter.7}%
-\contentsline {chapter}{Glossário}{33}{chapter.7}%
+\contentsline {chapter}{\MakeTextUppercase []{Refer\^encias}}{41}{section*.31}%
+\contentsline {chapter}{Gloss\'ario}{41}{section*.31}%
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}

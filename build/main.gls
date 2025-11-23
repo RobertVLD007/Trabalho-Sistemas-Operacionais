@@ -1,0 +1,21 @@
+\glossarysection[\glossarytoctitle]{\glossarytitle}\glossarypreamble
+\begin{theglossary}\glossaryheader
+\glsgroupheading{A}\relax \glsresetentrylist %
+\glsnextpages \glossentry{abntex2}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{34}\delimN 
+		\glsseeformat[\seename ]{latex}{Z}}}\glsgroupskip
+\glsgroupheading{E}\relax \glsresetentrylist %
+\glsnextpages \glossentry{equilibrio}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{34}\delimN 
+		\glsseeformat[veja também]{componente}{Z}}}\glsgroupskip
+\glsgroupheading{L}\relax \glsresetentrylist %
+\glossentry{latex}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{34}}}\glsgroupskip
+\glsgroupheading{P}\relax \glsresetentrylist %
+\glossentry{pai}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{34\delimN 35}}}%
+\subglossentry{1}{componente}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{34\delimN 35}}}%
+\subglossentry{1}{filho}{\glossaryentrynumbers{\relax 
+		\setentrycounter[]{page}\glsnumberformat{34}}}%
+\end{theglossary}\glossarypostamble

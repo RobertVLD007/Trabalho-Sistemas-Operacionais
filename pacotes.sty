@@ -12,7 +12,8 @@
 %% https://ctan.org/pkg/inputenc
 %% se eu não me engano, configura o uso de caractéries especiais como ç https://www.fileformat.info/info/charset/UTF-8/list.htm
 
-\RequirePackage[brazil]{babel} % Hifenização, correções, coisas relacionadas a português e outras línguas. 
+% Use as opções de idioma vindas da classe do documento (main.tex)
+\RequirePackage{babel} % Hifenização e localizações conforme as opções da classe
 %% https://ctan.org/pkg/babel
 
 \RequirePackage[T1]{fontenc} % alguma coisa voltada a fontes, permite a hifenização com caractéreis especiais. Não sei a diferença entre esse e a hifenização do Babel
@@ -33,8 +34,10 @@
 \RequirePackage{setspace} % define o espaçamento entre as palavras, não sei por que usaria isso, mas tá aqui
 %% https://ctan.org/pkg/setspace
 
-\RequirePackage{hyperref, xurl} % usado para configurar links e referências, não sei para que serve a xurl
+% hyperref é carregado pela classe/fluxo; evitar recarregar aqui para não gerar option clash
+\RequirePackage{xurl} % URLs longas
 %% https://ctan.org/pkg/hyperref 
+
 % \RequirePackage[shortlabels]{enumitem}
 %% https://ctan.org/pkg/enumitem?lang=en
 
@@ -90,7 +93,7 @@
 
 
 % ----------------- citações --------------------------------------
-\RequirePackage[alf,abnt-repeated-title-omit=yes,abnt-emphasize=bf,abnt-etal-list=0]{abntex2cite} % configuração para citações
+\RequirePackage[alf]{abntex2cite} % configuração para citações
 \citebrackets() % qual símbolo usar para destacar as citações, neste caso é o parênteses
 \newenvironment{citelong}
 {\singlespacing \hfill \begin{minipage}{12cm}}
@@ -102,8 +105,40 @@
 
 \RequirePackage{xcolor} % adiciona cores diferentonas para fonte e para background
 %% https://en.wikibooks.org/wiki/LaTeX/Colors
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
 
 \RequirePackage[subentrycounter,seeautonumberlist,nonumberlist=true]{glossaries}
+
+\RequirePackage{listings} % para inserir códigos-fonte no documento
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+}
+\lstset{style=mystyle}
+
+\RequirePackage{tcolorbox} % caixas coloridas
+%% https://ctan.org/pkg/tcolorbox
+
+\RequirePackage{adjustbox} % para ajustar caixas de texto e figuras
+%% https://ctan.org/pkg/adjustbox
 
 % Adicionando fundo na capa
 \makeatletter

@@ -1,0 +1,92 @@
+\part{Exercícios}
+
+\chapter{Atividades - Capítulo 6}
+
+\section{Atividade 6.1}
+\subsection*{Enunciado}
+Pesquise as opções do comando \texttt{ps} e crie um comando para listar apenas os identificadores e nomes dos processos que estão no estado \textbf{R} (running). Verifique também o comando \texttt{top}, uma versão interativa do comando \texttt{ps}, atualizando a listagem de processos a cada \textit{n} segundos e ordenando-os por uso de CPU e memória.
+Consulte os estados de processo descritos em \ref{sec:estados-processo} e relacione diferenças de carga com operações de disco (Capítulo \ref{chap:memoria-secundaria}).
+
+\section{Atividade 6.2}
+\subsection*{Enunciado}
+A partir do Shell, execute um programa em background (por exemplo, o navegador web). Observe a árvore hierárquica de processos e visualize as dependências destes processos. Observe ainda seu PID e PPID e compare aos do \texttt{bash}. Verifique também o comando \texttt{jobs}, que mostra a situação de todos os processos em background naquele Shell.
+
+\section{Atividade 6.3}
+\subsection*{Enunciado}
+Utilize o daemon \texttt{cron} para realizar um backup daqui a cinco minutos dos arquivos \texttt{.log} da pasta \texttt{/var/log}. O arquivo de backup deve ser compactado e colocado dentro de sua pasta.
+
+\begin{tcolorbox}[colback=yellow!10!white,colframe=red!75!black]
+Utilize \texttt{crontab -e} para editar o arquivo e o comando \texttt{tar -zcvf <destino> <origem>} para fazer a compactação dos arquivos \texttt{.log}.
+\end{tcolorbox}
+
+\section{Atividade 6.4}
+\subsection*{Enunciado}
+Crie um script que mostra o usuário atual, o diretório atual e o Shell em uso. Lembre que em \texttt{/etc/passwd} encontram-se listados os usuários e seus shells.
+Ver também gerenciamento de usuários na Seção \ref{sec:usuarios-grupos}.
+
+\begin{tcolorbox}[colback=yellow!10!white,colframe=red!75!black]
+Use o comando \texttt{cut} com a sintaxe:
+\begin{lstlisting}[language=bash]
+cut -d DELIMITADOR -f NUMERO\_DO\_CAMPO
+\end{lstlisting}
+O comando \texttt{cut} corta somente o(s) campo(s) de número \texttt{NUMERO\_DO\_CAMPO} e utiliza o separador \texttt{DELIMITADOR} para delimitar cada campo. No caso do arquivo \texttt{passwd}, o delimitador é ":".
+\end{tcolorbox}
+
+
+\section{Atividade 6.8}
+\subsection*{Enunciado}
+Crie um script que verifica o número de parâmetros recebidos na linha de comando. Verifique se existe apenas um parâmetro. Use o comando \texttt{test} para validar e \texttt{exit} para sair se o número for incorreto. Lembre-se de que o número de parâmetros está na variável \texttt{\$\#}.
+Relacione com o contexto de processo (Seção \ref{sec:identificacao-processo}).
+
+\section{Atividade 6.9}
+\subsection*{Enunciado}
+Estenda a atividade anterior para verificar se o parâmetro é um diretório. Exemplo de uso: \texttt{./testedir /home}. Use o teste \texttt{[[ -d \$1 ]]} para verificar. A variável \texttt{\$?} indica status: zero sucesso; diferente de zero falha.
+Considere permissões de acesso (Seção \ref{sec:permissoes-arquivos}).
+
+\section{Atividade 6.10}
+\subsection*{Enunciado}
+Adapte a atividade anterior para receber dois parâmetros: um diretório e uma letra. Se o primeiro for diretório válido, liste todos os arquivos que começam com a letra informada (ex.: \texttt{ls \$2*}).
+Impacto de listar muitos arquivos pode variar conforme latências de armazenamento (Figura \ref{fig:latencia-hdd-ssd}).
+
+\chapter{Atividades - Capítulo 7}
+
+\section{Atividade 7.6}
+\subsection*{Enunciado}
+Crie um arquivo chamado \texttt{agenda} contendo nomes e telefones (\texttt{nome sobrenome telefone}). Crie um script que recebe como parâmetro um nome e imprime as linhas do arquivo \texttt{agenda} que o contenham. Verifique se foi passado parâmetro.
+
+    \begin{lstlisting}[language=bash]
+        #!/bin/bash
+        ???????????????????
+
+        then
+            ???????????????????
+            ???????????????????
+            ???????????????????
+
+            exit 1
+        else
+            ???????????????????
+            ???????????????????
+            then    
+                echo 'Recuperando informacoes'
+                grep ?????????? agenda
+            fi
+        fi
+    \end{lstlisting}
+
+\section{Atividade 7.9}
+\subsection*{Enunciado}
+1. Crie um script que recebe duas palavras como parâmetro e verifica se a primeira está contida na segunda.\\ 
+2. Crie um script que recebe o nome de um arquivo texto como parâmetro, verifica se o usuário possui permissão de leitura deste arquivo e, caso tenha, 
+exiba as seguintes informações sobre o arquivo: número de caracteres, número de palavras e número de linhas do arquivo \texttt{(utilize o comando wc)}.
+
+\section{Atividade 7.11}
+    \subsection*{Enunciado}
+    Crie um script que apresenta um menu:
+    \begin{enumerate}
+        \item Exibir status das partições (\texttt{df -h})
+        \item Exibir usuários logados (\texttt{who})
+        \item Exibir data/hora (\texttt{date})
+        \item Sair
+    \end{enumerate}
+    Leia a opção e execute o comando correspondente; valide entradas inválidas.

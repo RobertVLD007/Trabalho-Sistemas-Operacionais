@@ -1,0 +1,4 @@
+PWD C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Operacionais
+INPUT C:\Users\rober\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT Macros.tex
+OUTPUT C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Operacionais\build\Macros.log

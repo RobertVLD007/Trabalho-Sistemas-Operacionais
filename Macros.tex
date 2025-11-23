@@ -18,3 +18,59 @@
 % à á ã \‘a \’a \~a
 % í {\’\i}
 % ç {\c c}
+
+% Macros.tex — macros e comandos reutilizáveis do projeto
+
+% Pacotes usados no projeto já estão em pacotes.sty, então evite carregar pacotes aqui.
+% Se precisar de um pacote extra, adicione em pacotes.sty ou me peça para consolidar.
+
+% ---------------------------
+% Atalhos de texto
+% ---------------------------
+\newcommand{\SO}{Sistemas Operacionais}        % uso: \SO
+\newcommand{\UVV}{Universidade de Vila Velha}  % uso: \UVV
+
+% ---------------------------
+% Frases e elementos repetidos
+% ---------------------------
+\newcommand{\discipline}{Disciplina de Sistemas Operacionais}
+\newcommand{\semester}{2\textordfeminine\ Bimestre}
+
+% ---------------------------
+% Unidades com siunitx (pacote já carregado)
+% ---------------------------
+\newcommand{\kbps}[1]{\SI{#1}{\kilo\bit\per\second}}
+% exemplo: \kbps{100} -> 100 kbit/s
+
+% ---------------------------
+% Macros matemáticas simples
+% ---------------------------
+\newcommand{\vect}[1]{\mathbf{#1}} % vetor em negrito: \vect{v}
+
+% ---------------------------
+% Abreviações e glossário (use glossaries se preferir)
+% ---------------------------
+% Se quiser que o glossário seja gerenciado, use \newglossaryentry no preâmbulo.
+% Exemplo de atalho textual:
+\newcommand{\eg}{\emph{e.g.}\ } % cuidado com espaçamento; teste em texto
+
+% ---------------------------
+% Comandos para referências
+% ---------------------------
+\newcommand{\figref}[1]{Figura~\ref{#1}}
+\newcommand{\secref}[1]{Seção~\ref{#1}}
+
+% ---------------------------
+% Mensagens de TODO/NOTA (visíveis no PDF)
+% ---------------------------
+\newcommand{\nota}[1]{\textbf{[NOTA: #1]}}
+
+% ---------------------------
+% Ajustes para BibTeX/acento (se precisar)
+% ---------------------------
+% Exemplos de mapeamento (use somente se tiver problemas com acentos no .bib)
+\newcommand{\Acutea}{\'a}  % se necessário mapeamento para o .bib
+
+% ---------------------------
+% Fim — documente cada macro acima para futuros autores
+% ---------------------------

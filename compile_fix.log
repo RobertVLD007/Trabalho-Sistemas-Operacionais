@@ -1,0 +1,447 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-10-24>
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/abntex2\abntex2.cls
+Document Class: abntex2 2018/11/24 v-1.9.7 abnTeX2
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/memoir\memoir.cls
+Document Class: memoir 2025/11/04 v3.8.4b configurable book, report, article do
+cument class
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/memoir\mem12.clo)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\dcolumn.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\delarray.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+)))) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/base\shortvrb.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/textcase\textcase.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty)))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty)))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/memoir\memhfixc.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
+)) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+
+Package babel Warning: Configuration files are deprecated, as
+(babel)                they can break document portability.
+(babel)                Reported on input line 4172.
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel
+-english.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/pt\babel
+-brazilian.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/pt\babel
+-brazil.tex
+
+Package babel Warning: Name 'brazil' is deprecated.
+(babel)                Use 'brazilian' instead.
+(babel)                Reported on input line 19.
+
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
+df)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/babel-portuges\brazilia
+n.ldf)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/babel-portuges\brazilia
+n.ldf))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty)
+
+******************************************************
+Stock height and width: 845.04684pt by 597.50787pt
+Top and edge trims: 0pt and 0pt
+Page height and width: 845.04684pt by 597.50787pt
+Text height and width: 708pt by 455pt
+Spine and edge margins: 85.35826pt and 56.9055pt
+Upper and lower margins: 85.35826pt and 51.68858pt
+Headheight and headsep: 14.5pt and 19.8738pt
+Footskip: 30pt
+Columnsep and columnseprule: 10pt and 0pt
+Marginparsep and marginparwidth: 7pt and 42.9055pt
+Sidecapsep and sidecapwidth: 7pt and 92pt
+Sidebarhsep and sidebarwidth: 7pt and 92pt
+Sidebarvsep and sidebartopsep: 14.5pt and 0pt
+Sidebarheight: 590.14995pt
+Sidefoothsep and sidefootwidth: 7pt and 92pt
+Sidefootvsep and sidefootheight: 14.5pt and 590.14995pt
+******************************************************
+
+
+Class memoir Warning: \settocpreprocessor is marked deprecated and will be
+(memoir)              removed in 2026, the problem it tried to solve 
+(memoir)              (see manual, section 9.2.3),
+(memoir)              has been fixed in the kernel, and the feature is
+(memoir)              no longer needed. on input line 483.
+
+) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty)
+(pacotes.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
+tex.def)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+
+! LaTeX Error: Option clash for package hyperref.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 \RequirePackage
+                    {xurl} % URLs longas
+!  ==> Fatal error occurred, no output PDF file produced!
+Transcript written on C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Oper
+acionais\build\main.log.
+I couldn't open file name `main.aux'
+Auxiliary file 'main.aux' doesn't exist. Have you run LaTeX?
+makeglossaries version 4.7 (2025-05-14)
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-10-24>
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/abntex2\abntex2.cls
+Document Class: abntex2 2018/11/24 v-1.9.7 abnTeX2
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/memoir\memoir.cls
+Document Class: memoir 2025/11/04 v3.8.4b configurable book, report, article do
+cument class
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/memoir\mem12.clo)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\dcolumn.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\delarray.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+)))) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/base\shortvrb.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/textcase\textcase.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty)))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty)))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/memoir\memhfixc.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
+)) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+
+Package babel Warning: Configuration files are deprecated, as
+(babel)                they can break document portability.
+(babel)                Reported on input line 4172.
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel
+-english.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/pt\babel
+-brazilian.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/pt\babel
+-brazil.tex
+
+Package babel Warning: Name 'brazil' is deprecated.
+(babel)                Use 'brazilian' instead.
+(babel)                Reported on input line 19.
+
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
+df)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/babel-portuges\brazilia
+n.ldf)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/babel-portuges\brazilia
+n.ldf))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty)
+
+******************************************************
+Stock height and width: 845.04684pt by 597.50787pt
+Top and edge trims: 0pt and 0pt
+Page height and width: 845.04684pt by 597.50787pt
+Text height and width: 708pt by 455pt
+Spine and edge margins: 85.35826pt and 56.9055pt
+Upper and lower margins: 85.35826pt and 51.68858pt
+Headheight and headsep: 14.5pt and 19.8738pt
+Footskip: 30pt
+Columnsep and columnseprule: 10pt and 0pt
+Marginparsep and marginparwidth: 7pt and 42.9055pt
+Sidecapsep and sidecapwidth: 7pt and 92pt
+Sidebarhsep and sidebarwidth: 7pt and 92pt
+Sidebarvsep and sidebartopsep: 14.5pt and 0pt
+Sidebarheight: 590.14995pt
+Sidefoothsep and sidefootwidth: 7pt and 92pt
+Sidefootvsep and sidefootheight: 14.5pt and 590.14995pt
+******************************************************
+
+
+Class memoir Warning: \settocpreprocessor is marked deprecated and will be
+(memoir)              removed in 2026, the problem it tried to solve 
+(memoir)              (see manual, section 9.2.3),
+(memoir)              has been fixed in the kernel, and the feature is
+(memoir)              no longer needed. on input line 483.
+
+) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty)
+(pacotes.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
+tex.def)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+
+! LaTeX Error: Option clash for package hyperref.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 \RequirePackage
+                    {xurl} % URLs longas
+!  ==> Fatal error occurred, no output PDF file produced!
+Transcript written on C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Oper
+acionais\build\main.log.
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-10-24>
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/abntex2\abntex2.cls
+Document Class: abntex2 2018/11/24 v-1.9.7 abnTeX2
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/memoir\memoir.cls
+Document Class: memoir 2025/11/04 v3.8.4b configurable book, report, article do
+cument class
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/memoir\mem12.clo)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\dcolumn.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\delarray.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+)))) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/base\shortvrb.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/textcase\textcase.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty)))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty)))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/memoir\memhfixc.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
+)) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+
+Package babel Warning: Configuration files are deprecated, as
+(babel)                they can break document portability.
+(babel)                Reported on input line 4172.
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel
+-english.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/pt\babel
+-brazilian.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/pt\babel
+-brazil.tex
+
+Package babel Warning: Name 'brazil' is deprecated.
+(babel)                Use 'brazilian' instead.
+(babel)                Reported on input line 19.
+
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
+df)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/babel-portuges\brazilia
+n.ldf)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/babel-portuges\brazilia
+n.ldf))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty)
+
+******************************************************
+Stock height and width: 845.04684pt by 597.50787pt
+Top and edge trims: 0pt and 0pt
+Page height and width: 845.04684pt by 597.50787pt
+Text height and width: 708pt by 455pt
+Spine and edge margins: 85.35826pt and 56.9055pt
+Upper and lower margins: 85.35826pt and 51.68858pt
+Headheight and headsep: 14.5pt and 19.8738pt
+Footskip: 30pt
+Columnsep and columnseprule: 10pt and 0pt
+Marginparsep and marginparwidth: 7pt and 42.9055pt
+Sidecapsep and sidecapwidth: 7pt and 92pt
+Sidebarhsep and sidebarwidth: 7pt and 92pt
+Sidebarvsep and sidebartopsep: 14.5pt and 0pt
+Sidebarheight: 590.14995pt
+Sidefoothsep and sidefootwidth: 7pt and 92pt
+Sidefootvsep and sidefootheight: 14.5pt and 590.14995pt
+******************************************************
+
+
+Class memoir Warning: \settocpreprocessor is marked deprecated and will be
+(memoir)              removed in 2026, the problem it tried to solve 
+(memoir)              (see manual, section 9.2.3),
+(memoir)              has been fixed in the kernel, and the feature is
+(memoir)              no longer needed. on input line 483.
+
+) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty)
+(pacotes.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
+tex.def)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+
+! LaTeX Error: Option clash for package hyperref.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 \RequirePackage
+                    {xurl} % URLs longas
+!  ==> Fatal error occurred, no output PDF file produced!
+Transcript written on C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Oper
+acionais\build\main.log.

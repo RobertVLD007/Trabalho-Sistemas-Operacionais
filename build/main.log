@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.22)  22 NOV 2025 18:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.23)  23 NOV 2025 17:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -436,12 +436,31 @@ Package hyperref Info: Hyper figures OFF on input line 4195.
 Package hyperref Info: Link nesting OFF on input line 4200.
 Package hyperref Info: Hyper index ON on input line 4203.
 Package hyperref Info: Plain pages OFF on input line 4210.
-Package hyperref Info: Backreferencing OFF on input line 4215.
+Package hyperref Info: Backreferencing ON on input line 4213.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4462.
-\c@Hy@tempcnt=\count338
 
-(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\backref.sty
+Package: backref 2025-06-21 v1.45 Bibliographical back referencing
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
+))
+\c@Hy@tempcnt=\count338
+ (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -450,19 +469,14 @@ LaTeX Info: Redefining \url on input line 4801.
 
 (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-
-(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
-.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
-))
 \Fld@menulength=\count339
 \Field@Width=\dimen195
 \Fld@charsize=\dimen196
 Package hyperref Info: Hyper figures OFF on input line 6078.
 Package hyperref Info: Link nesting OFF on input line 6083.
 Package hyperref Info: Hyper index ON on input line 6086.
-Package hyperref Info: backreferencing OFF on input line 6093.
+Package hyperref Info: backreferencing ON on input line 6091.
 Package hyperref Info: Link coloring OFF on input line 6098.
 Package hyperref Info: Link coloring with OCG OFF on input line 6103.
 Package hyperref Info: PDF/A mode OFF on input line 6108.
@@ -476,18 +490,6 @@ Package hyperref Info: Driver (autodetected): hpdftex.
 File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
 \Fld@listcount=\count343
 \c@bookmark@seq@number=\count344
-
-(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
-echeck.sty
-Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
-
-(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
-ounter.sty
-Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
-)
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-84.
-)
 \Hy@SectionHShift=\skip191
 )
 (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/memoir\memhfixc.sty
@@ -541,8 +543,8 @@ File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
 )
 (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel
 -english.tex)
-(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/de\babel
--german.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/pt\babel
+-brazilian.tex)
 (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/pt\babel
 -brazil.tex
 
@@ -564,25 +566,16 @@ Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
 (babel)             (\language73). Reported on input line 108.
 )
+Package babel Info: Importing font and identification data for brazilian
+(babel)             from babel-pt-BR.ini. Reported on input line 4295.
 
-Package babel Warning: The name 'german' with the 'ldf' mechanism is
-(babel)                currently assigned to the old 1901 variant of German.
-(babel)                For modern post-1996 German, use the name 'ngerman'.
-(babel)                Reported on input line 4295.
-
-Package babel Info: Importing font and identification data for german
-(babel)             from babel-de-1901.ini. Reported on input line 4295.
-
-(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\german.ldf
-Language: german 2024/12/10 v2.15 German support for babel (pre-1996 orthograph
-y)
-
-(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\germanb.ld
-f
-Language: germanb 2024/12/10 v2.15 German support for babel (pre-1996 orthograp
-hy)
-Package babel Info: Making " an active character on input line 139.
-))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/babel-portuges\brazilia
+n.ldf
+Language: portuges 2021/07/09 v1.2t Portuguese support from the babel system
+Package babel Info: Hyphen rules for 'brazilian' set to \l@portuguese
+(babel)             (\language56). Reported on input line 111.
+Package babel Info: Making " an active character on input line 143.
+)
 Package babel Info: Importing font and identification data for brazil
 (babel)             from babel-pt-BR.ini. Reported on input line 4295.
 
@@ -659,9 +652,6 @@ Class memoir Warning: \settocpreprocessor is marked deprecated and will be
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks26
 \inpenc@posthook=\toks27
-)
-(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\backref.sty
-Package: backref 2025-06-21 v1.45 Bibliographical back referencing
 )
 (pacotes.sty
 (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
@@ -1777,10 +1767,8 @@ Package: tracklang 2025/03/11 v1.6.6 (NLCT) Track Languages
 ex)
 Package tracklang Info: Tracking dialect `english' (language `english') on inpu
 t line 53.
-Package tracklang Info: Tracking dialect `german' (language `german') on input 
-line 53.
-Package tracklang Info: Tracking dialect `brazil' (language `portuges') on inpu
-t line 53.
+Package tracklang Info: Tracking dialect `brazilian' (language `portuges') on i
+nput line 53.
 )
 (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator.s
 ty
@@ -1789,10 +1777,6 @@ Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
 (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-english\glos
 saries-english.ldf
 File: glossaries-english.ldf 2014/11/23 v1.0
-)
-(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-german\gloss
-aries-german.ldf
-File: glossaries-german.ldf 2014/11/23 v1.0
 )
 (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-portuges\glo
 ssaries-pt-BR.ldf
@@ -1847,16 +1831,12 @@ Package tracklang Warning: No `datatool' support for dialect `english'  on inpu
 t line 9924.
 
 
-Package tracklang Warning: No `datatool' support for dialect `german'  on input
- line 9924.
+Package tracklang Warning: No `datatool' support for dialect `brazilian'  on in
+put line 9924.
 
 
-Package tracklang Warning: No `datatool' support for dialect `brazil'  on input
- line 9924.
-
-
-Package tracklang Warning: No `datatool' support for dialect `brazil'  on input
- line 9924.
+Package tracklang Warning: No `datatool' support for dialect `brazilian'  on in
+put line 9924.
 
 \dtl@codeA=\count466
 \dtl@codeB=\count467
@@ -1953,48 +1933,298 @@ Package: glossary-tree 2025/08/11 v4.8 (NLCT)
 \l__glossaries_tree_namesymbolwidth_padding_dim=\dimen407
 \l__glossaries_tree_level_int=\count477
 \glstreeindent=\skip281
-)))
-Package hyperref Info: Option `colorlinks' set `true' on input line 42.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 10
-6.
+))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lstset,
+\lst@mode=\count478
+ 
+new hook `InitVars',
 
+new hook `EndGroup',
+
+new hook `ExitVars',
+
+new hook `ModeTrue',
+
+new hook `EOL',
+\lst@gtempboxa=\box141
+\lst@token=\toks70
+\lst@length=\count479
+
+new hook `InitVarsBOL',
+\lst@currlwidth=\dimen408
+\lst@column=\count480
+\lst@pos=\count481
+\lst@lostspace=\dimen409
+\lst@width=\dimen410
+basewidth, 
+new hook `FontAdjust',
+fontadjust, 
+new hook `PostOutput',
+
+new hook `OutputBox',
+
+new hook `InitBOL',
+columns, flexiblecolumns,
+\lst@newlines=\count482
+ 
+new hook `OnNewLine',
+emptylines, 
+new hook `OnEmptyLine',
+identifierstyle, 
+new hook `EmptyStyle',
+
+new hook `OutputOther',
+
+new hook `Output',
+tabsize, showtabs, tab, showspaces, keepspaces, 
+new hook `Init',
+formfeed, upquote, SelectCharTable, MoreSelectCharTable,
+
+new hook `SetLanguage',
+extendedchars, useoutput, rescanchars, alsoletter, alsodigit, alsoother,
+
+new hook `SelectCharTable',
+excludedelims, delim, moredelim, deletedelim, literate, basicstyle,
+inputencoding, multicols, 
+new hook `EveryLine',
+\lst@lineno=\count483
+print, firstline, lastline, 
+new hook `PreSet',
+nolol, linerange, consecutivenumbers, rangeprefix, rangesuffix,
+rangebeginprefix, rangebeginsuffix, rangeendprefix, rangeendsuffix,
+includerangemarker, 
+new hook `DeInit',
+captionpos, abovecaptionskip, belowcaptionskip, label, title, caption,
+
+new hook `TextStyle',
+\lstlistingname, \lstlistingnamestyle, numberbychapter, boxpos, float,
+floatplacement, aboveskip, belowskip, everydisplay, 
+new hook `DisplayStyle',
+
+new hook `PreInit',
+
+new hook `EveryPar',
+showlines,
+\lst@maxwidth=\dimen411
+ 
+new hook `InitVarsEOL',
+gobble, name, \lstlistlistingname, \lstlistoflistings, inputpath,
+\lstnewenvironment, fancyvrb,
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2025/10/06 1.11 (Carsten Heinz)
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2025/10/06 1.11 (Carsten Heinz)
+
+
+Define lst-aspect `strings': string, morestring, deletestring, stringstyle,
+showstringspaces, 
+new hook `ExcludeDelims',
+
+Allocs: none
+
+Define lst-aspect `comments': comment, morecomment, deletecomment,
+commentstyle, 
+new hook `AfterBeginComment',
+
+Allocs: none
+
+Define lst-aspect `escape': texcl, escapebegin, escapeend, escapechar,
+escapeinside, mathescape, 
+Allocs: none
+
+Define lst-aspect `keywords': sensitive, 
+new hook `TrackKeywords',
+
+new hook `PostTrackKeywords',
+
+new hook `DetectKeywords',
+classoffset, keywords, morekeywords, deletekeywords, keywordstyle,
+keywordstyle, ndkeywords, morendkeywords, deletendkeywords, ndkeywordstyle,
+keywordsprefix, otherkeywords, 
+Allocs: none
+
+Define lst-aspect `emph': emph, moreemph, deleteemph, emphstyle, 
+Allocs: none
+
+Define lst-aspect `index': index, moreindex, deleteindex, indexstyle,
+\lstindexmacro, 
+Allocs: none
+
+Define lst-aspect `style': \lststylefiles, \lstdefinestyle, \lst@definestyle,
+style, 
+new hook `SetStyle',
+
+Allocs: none
+
+Define lst-aspect `language': \lstlanguagefiles, \lstdefinelanguage,
+\lst@definelanguage, language, alsolanguage, \lstalias, defaultdialect,
+
+Allocs: none
+
+Define lst-aspect `labels': numbers, stepnumber, numberfirstline, numberstyle,
+numbersep, numberblanklines, firstnumber,
+\c@lstnumber=\count484
+\lst@skipnumbers=\count485
+ 
+Allocs: 2\count, 
+
+Define lst-aspect `lineshape': xleftmargin, xrightmargin, resetmargins,
+
+new hook `BoxUnsafe',
+linewidth, lineskip, breaklines, breakindent, breakautoindent,
+breakatwhitespace, prebreak, postbreak, 
+Allocs: none
+
+Define lst-aspect `frames': framexleftmargin, framexrightmargin,
+framextopmargin, framexbottommargin, backgroundcolor, fillcolor, rulecolor,
+rulesepcolor, rulesep, framerule, framesep, frameshape, frameround, frame,
+\lst@framebox=\box142
+
+
+Allocs: 1\box, 
+) 
+Allocs: 8\count, 4\dimen, 2\box, 1\toks, 
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2025/10/06 1.11 listings configuration
+))
+Package: listings 2025/10/06 1.11 (Carsten Heinz)
+==> First Aid for listings.sty no longer applied!
+    Expected:
+        2024/09/23 1.10c (Carsten Heinz)
+    but found:
+        2025/10/06 1.11 (Carsten Heinz)
+    so I'm assuming it got fixed.
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
+Package: tcolorbox 2025/09/09 version 6.8.0 text color boxes
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.s
+ty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box143
+\tcb@upperbox=\box144
+\tcb@lowerbox=\box145
+\tcb@phantombox=\box146
+\c@tcbbreakpart=\count486
+\c@tcblayer=\count487
+\c@tcolorbox@number=\count488
+\l__tcobox_tmpa_box=\box147
+\l__tcobox_tmpa_dim=\dimen412
+\tcb@temp=\box148
+\tcb@temp=\box149
+\tcb@temp=\box150
+\tcb@temp=\box151
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2025/02/26 v1.3c Adjusting TeX boxes (trim, clip, ...)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2025/02/21 v1.2a Trim and clip general TeX material
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.s
+ty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box152
+)
+\tc@llx=\dimen413
+\tc@lly=\dimen414
+\tc@urx=\dimen415
+\tc@ury=\dimen416
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2025/02/26 v2.3 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen417
+\adjbox@Height=\dimen418
+\adjbox@Depth=\dimen419
+\adjbox@Totalheight=\dimen420
+\adjbox@pwidth=\dimen421
+\adjbox@pheight=\dimen422
+\adjbox@pdepth=\dimen423
+\adjbox@ptotalheight=\dimen424
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count489
+LaTeX Info: Redefining \checkoddpage on input line 45.
+) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box153
+\sift@deathcycles=\count490
+\@vwid@loff=\dimen425
+\@vwid@roff=\dimen426
+)
+==> First Aid for varwidth.sty applied!
+))
+Package hyperref Info: Option `colorlinks' set `true' on input line 80.
+\main@idxfile=\write5
+\openout5 = `main.idx'.
+
+
+Writing index file main.idx 
+\glswrite=\write6
+\glo@main@file=\write7
+\openout7 = `main.glo'.
+
+Package glossaries Info: Writing glossary file main.glo on input line 94.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 14
+7.
 (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-(C:\Users\rober\Desktop\Base_para_trabalhos_UFPR\build\main.aux
+(C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Operacionais\build\main.a
+ux
 Package babel Info: 'brazil' activates 'portuges' shorthands.
-(babel)             Reported on input line 17.
-)
+(babel)             Reported on input line 19.
+
+(C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Operacionais\build\inputs
+/discos.aux)
+(C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Operacionais\build\inputs
+/permissoes.aux)
+(C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Operacionais\build\inputs
+/exercicios.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-Package hyperref Info: Link coloring ON on input line 106.
-\myptabbox=\box141
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+Package hyperref Info: Link coloring ON on input line 147.
+\myptabbox=\box154
 \myptabboxwidth=\skip282
-LaTeX Info: Redefining \microtypecontext on input line 106.
-Package microtype Info: Applying patch `item' on input line 106.
-Package microtype Info: Applying patch `toc' on input line 106.
-Package microtype Info: Applying patch `eqnum' on input line 106.
-Package microtype Info: Applying patch `footnote' on input line 106.
-Package microtype Info: Applying patch `verbatim' on input line 106.
-LaTeX Info: Redefining \microtypesetup on input line 106.
+Package microtype Info: Patching varwidth to enable character protrusion.
+\MT@vwid@leftmargin=\dimen427
+\MT@vwid@rightmargin=\dimen428
+LaTeX Info: Redefining \microtypecontext on input line 147.
+Package microtype Info: Applying patch `item' on input line 147.
+Package microtype Info: Applying patch `toc' on input line 147.
+Package microtype Info: Applying patch `eqnum' on input line 147.
+Package microtype Info: Applying patch `footnote' on input line 147.
+Package microtype Info: Applying patch `verbatim' on input line 147.
+LaTeX Info: Redefining \microtypesetup on input line 147.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -2051,15 +2281,7 @@ File: translations-basic-dictionary-brazil.trsl (brazil translation file `trans
 lations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `brazil'. on input line 106.
-
-(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\tran
-slations-basic-dictionary-german.trsl
-File: translations-basic-dictionary-german.trsl (german translation file `trans
-lations-basic-dictionary')
-)
-Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `german'. on input line 106.
+or `brazil'. on input line 147.
 
 (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\tran
 slations-basic-dictionary-english.trsl
@@ -2067,22 +2289,22 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 106.
+or `english'. on input line 147.
 
 (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count478
-\scratchdimen=\dimen408
-\scratchbox=\box142
-\nofMPsegments=\count479
-\nofMParguments=\count480
-\everyMPshowfont=\toks70
-\MPscratchCnt=\count481
-\MPscratchDim=\dimen409
-\MPnumerator=\count482
-\makeMPintoPDFobject=\count483
-\everyMPtoPDFconversion=\toks71
+\scratchcounter=\count491
+\scratchdimen=\dimen429
+\scratchbox=\box155
+\nofMPsegments=\count492
+\nofMParguments=\count493
+\everyMPshowfont=\toks71
+\MPscratchCnt=\count494
+\MPscratchDim=\dimen430
+\MPnumerator=\count495
+\makeMPintoPDFobject=\count496
+\everyMPtoPDFconversion=\toks72
 )
 (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -2095,6 +2317,7 @@ fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
 Package caption Info: longtable package is loaded.
 
 (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
@@ -2111,21 +2334,18 @@ enefit from \pgfplotsset{compat=1.18} (current compat level: 1.17).
 saries-dictionary-English.dict
 Dictionary: glossaries-dictionary, Language: English 
 )
-(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-german\gloss
-aries-dictionary-German.dict
-Dictionary: glossaries-dictionary, Language: German 
-)
 (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-portuges\glo
 ssaries-dictionary-Brazilian.dict
 Dictionary: glossaries-dictionary, Language: Brazilian 
 )
+\c@lstlisting=\count497
 <UVV.jpg, id=6, 1027.84pt x 685.56125pt>
 File: UVV.jpg Graphic file (type jpg)
 <use UVV.jpg>
-Package pdftex.def Info: UVV.jpg  used on input line 108.
+Package pdftex.def Info: UVV.jpg  used on input line 150.
 (pdftex.def)             Requested size: 597.51208pt x 845.11829pt.
 LaTeX Font Info:    Trying to load font information for T1+lmss on input line 1
-08.
+50.
 
 (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -2135,7 +2355,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 
-108.
+150.
 
 (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmss.fd
 File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -2146,6 +2366,8 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
  [1
 
+\openout6 = `main.ist'.
+
 {C:/Users/rober/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/robe
 r/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/rober/Ap
 pData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc} <./UVV.jpg>] [2
@@ -2155,8 +2377,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.110 \makeatother
-                  \cleardoublepage [1
+l.153 
+       [1
 
 
 ]
@@ -2164,55 +2386,46 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.110 \makeatother\cleardoublepage
-                                   [2
+l.167 \end{epigrafe}
+                     [2] [3
 
-] [3] [4
+] [4
 
 ] [5] [6
 
-] [7] [8
-
 ]
-(C:\Users\rober\Desktop\Base_para_trabalhos_UFPR\build\main.lof) [9] [10
-
-]
-[11
-
-] [12
-
-] (C:\Users\rober\Desktop\Base_para_trabalhos_UFPR\build\main.toc
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 8
+(C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Operacionais\build\main.l
+of
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
 .
-
-(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+ (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 8
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
 .
 
 (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-8.
+2.
 
 (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-8.
+2.
 
 (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 8.
+(Font)              <12> on input line 2.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 8.
+(Font)              <8> on input line 2.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 8.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 8.
+(Font)              <6> on input line 2.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
 
 (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -2220,108 +2433,284 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 8.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
 
 (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-)
+))
+[7] [8
+
+]
+(C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Operacionais\build\main.l
+ot) [9] [10
+
+]
+(C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Operacionais\build\main.t
+oc
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 9.
+(Font)              <14.4> on input line 6.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 9.
+(Font)              <10> on input line 6.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 9.
-)
-[13] [14
+(Font)              <7> on input line 6.
+ [11]) [12]
+\openout2 = `inputs/discos.aux'.
 
-] (C:\Users\rober\Desktop\Base_para_trabalhos_UFPR\build\main.bbl
-(C:\Users\rober\Desktop\Base_para_trabalhos_UFPR\build\main.brf)
-\tf@brf=\write5
-\openout5 = `main.brf'.
+ (inputs/discos.tex [13
 
 
-bibitemlist
 
-LaTeX Warning: Empty `thebibliography' environment on input line 8.
+] [14]
+<imgs/disk_types.jpg, id=198, 1083.04625pt x 1445.4pt>
+File: imgs/disk_types.jpg Graphic file (type jpg)
+<use imgs/disk_types.jpg>
+Package pdftex.def Info: imgs/disk_types.jpg  used on input line 5.
+(pdftex.def)             Requested size: 250.95476pt x 334.90517pt.
+ [15 <./imgs/disk_types.jpg>]
+[16
 
-) [15
-
-] [16
-
-] [17] [18]
+]
 Cap\'{\i }tulo 1.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 2
+1.
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
+2.
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [17]
+Package babel Info: 'brazil' activates 'portuges' shorthands.
+(babel)             Reported on input line 29.
+
+[18]
+Cap\'{\i }tulo 2.
+Package pgfplots info on input line 63: Using 'lua backend=false' for axis: x c
+oord trafo unsupported.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 65.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 [19
 
-] [20
-
-]
-Cap\'{\i }tulo 2.
-[21] [22
-
-]
+] [20{C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc
+}{C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc
+}]
 Cap\'{\i }tulo 3.
-[23] [24
+<imgs/disk_partition.png, id=258, 797.98125pt x 557.08125pt>
+File: imgs/disk_partition.png Graphic file (type png)
+<use imgs/disk_partition.png>
+Package pdftex.def Info: imgs/disk_partition.png  used on input line 77.
+(pdftex.def)             Requested size: 334.60422pt x 233.59001pt.
+[21
 
-]
+ <./imgs/disk_partition.png>]
+Package pgfplots info on input line 114: Using 'lua backend=false' for axis: x 
+coord trafo unsupported.
+ [22{C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.
+enc}]
 Cap\'{\i }tulo 4.
-[25] [26
 
-] [27] [28]
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[23
+
+]) [24]
+\openout2 = `inputs/permissoes.aux'.
+
+ (inputs/permissoes.tex [25
+
+
+
+
+] [26]
 Cap\'{\i }tulo 5.
+<imgs/linux_permissions.png, id=324, 1053.9375pt x 526.96875pt>
+File: imgs/linux_permissions.png Graphic file (type png)
+<use imgs/linux_permissions.png>
+Package pdftex.def Info: imgs/linux_permissions.png  used on input line 8.
+(pdftex.def)             Requested size: 334.60422pt x 167.29865pt.
+<imgs/user_data.png, id=329, 772.8875pt x 222.8325pt>
+File: imgs/user_data.png Graphic file (type png)
+<use imgs/user_data.png>
+Package pdftex.def Info: imgs/user_data.png  used on input line 27.
+(pdftex.def)             Requested size: 334.60422pt x 96.46893pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[27
+
+ <./imgs/linux_permissions.png>]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 37.
+ [28 <./imgs/user_data.png (PNG copy)>]
+Cap\'{\i }tulo 6.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 [29
 
-] [30
-
-]
-Cap\'{\i }tulo 6.
-[31] [32
-
-]
+] [30]
 Cap\'{\i }tulo 7.
 
-Underfull \hbox (badness 1205) in paragraph at lines 195--195
+Underfull \hbox (badness 1205) in paragraph at lines 88--88
 []\T1/lmss/m/n/24.88 (+20) GERENCIAMENTO DE ME-MÓ-RIA
  []
 
-No file main.gls.
-[33]
-\tf@lof=\write6
-\openout6 = `main.lof'.
+Package pgfplots info on input line 117: Using 'lua backend=false' for axis: ym
+ode=log unsupported (yet).
+Package pgfplots info on input line 117: Using 'lua backend=false' for axis: x 
+coord trafo unsupported.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 119.
 
-\tf@toc=\write7
-\openout7 = `main.toc'.
+Underfull \vbox (badness 1540) has occurred while \output is active []
 
- (C:\Users\rober\Desktop\Base_para_trabalhos_UFPR\build\main.aux)
+ [31
+
+])
+[32]
+\openout2 = `inputs/exercicios.aux'.
+
+ (inputs/exercicios.tex [33
+
+
+
+
+] [34]
+Cap\'{\i }tulo 8.
+[35
+
+]
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2025/10/06 1.11 listings language file
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2025/10/06 1.11 listings language file
+)
+[36] [37] [38
+
+]
+Cap\'{\i }tulo 9.
+[39]) [40]
+(C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Operacionais\build\main.b
+bl
+(C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Operacionais\build\main.b
+rf)
+\tf@brf=\write8
+\openout8 = `main.brf'.
+
+
+bibitemlist
+)
+(C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Operacionais\build\main.g
+ls [41
+
+
+
+] [42
+
+]
+
+Package glossaries Warning: Glossary entry `equilibrio' has not been defined on
+ input line 10.
+
+
+Package glossaries Warning: Glossary entry `equilibrio' has not been defined on
+ input line 10.
+
+
+Package glossaries Warning: Glossary entry `equilibrio' has not been defined on
+ input line 10.
+
+
+Package glossaries Warning: Glossary entry `pai' has not been defined on input 
+line 16.
+
+
+Package glossaries Warning: Glossary entry `pai' has not been defined on input 
+line 16.
+
+
+Package glossaries Warning: Glossary entry `pai' has not been defined on input 
+line 16.
+
+
+Package glossaries Warning: Glossary entry `componente' has not been defined on
+ input line 18.
+
+
+Package glossaries Warning: Glossary entry `filho' has not been defined on inpu
+t line 20.
+
+) [43
+
+]
+\tf@lof=\write9
+\openout9 = `main.lof'.
+
+\tf@lot=\write10
+\openout10 = `main.lot'.
+
+\tf@toc=\write11
+\openout11 = `main.toc'.
+
+
+(C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Operacionais\build\main.a
+ux
+(C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Operacionais\build\inputs
+/discos.aux)
+(C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Operacionais\build\inputs
+/permissoes.aux)
+(C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Operacionais\build\inputs
+/exercicios.aux))
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `main.brf' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: 600C0AF41745AF5AE6B92CD2EDDE466B;3060.
  ) 
 Here is how much of TeX's memory you used:
- 57470 strings out of 467870
- 1354170 string characters out of 5418354
- 1884866 words of memory out of 5000000
- 85222 multiletter control sequences out of 15000+600000
- 696620 words of font info for 131 fonts, out of 8000000 for 9000
+ 64032 strings out of 467870
+ 1478275 string characters out of 5418354
+ 2257388 words of memory out of 5000000
+ 91433 multiletter control sequences out of 15000+600000
+ 732730 words of font info for 225 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,12n,118p,2475b,1224s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 105i,12n,118p,2475b,2530s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
-b><C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb
-><C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb>
-<C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
-<C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb>
-<C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb>
-<C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pf
-b>
-Output written on C:\Users\rober\Desktop\Base_para_trabalhos_UFPR\build\main.pd
-f (35 pages, 448616 bytes).
+b><C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pf
+b><C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pf
+b><C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi9.pfb
+><C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb>
+<C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><
+C:/Users/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:
+/Users/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/U
+sers/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Use
+rs/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Use
+rs/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Use
+rs/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Use
+rs/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Use
+rs/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/U
+sers/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/U
+sers/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/U
+sers/rober/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
+Output written on C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Operacio
+nais\build\main.pdf (45 pages, 1396277 bytes).
 PDF statistics:
- 303 PDF objects out of 1000 (max. 8388607)
- 63 named destinations out of 1000 (max. 500000)
- 43170 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 845 PDF objects out of 1000 (max. 8388607)
+ 178 named destinations out of 1000 (max. 500000)
+ 62902 words of extra memory for PDF output out of 74296 (max. 10000000)
 

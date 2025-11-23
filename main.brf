@@ -1,0 +1,46 @@
+\backcite {tanenbaum:mos,silberschatz:osc,love:linuxkernel}{{17}{1}{chapter.1}}
+\backcite {tanenbaum:mos,silberschatz:osc,love:linuxkernel}{{17}{1}{chapter.1}}
+\backcite {tanenbaum:mos,silberschatz:osc,love:linuxkernel}{{17}{1}{chapter.1}}
+\backcite {patterson:hennessy}{{17}{1.1}{section.1.1}}
+\backcite {uefi:spec}{{17}{1.1}{section.1.1}}
+\backcite {uefi:spec}{{17}{1.2}{section.1.2}}
+\backcite {love:linuxkernel}{{18}{1.3}{section.1.3}}
+\backcite {patterson:hennessy}{{19}{2}{chapter.2}}
+\backcite {nvme:spec}{{19}{2.2}{section.2.2}}
+\backcite {gpt:efi}{{21}{3.1}{section.3.1}}
+\backcite {gpt:efi,uefi:spec}{{22}{3.2}{section.3.2}}
+\backcite {gpt:efi,uefi:spec}{{22}{3.2}{section.3.2}}
+\backcite {love:linuxkernel,tanenbaum:mos}{{23}{4}{chapter.4}}
+\backcite {love:linuxkernel,tanenbaum:mos}{{23}{4}{chapter.4}}
+\backcite {tweedie:ext3}{{23}{4.2}{section.4.2}}
+\backcite {rodeh:btrfs}{{23}{4.2}{section.4.2}}
+\backcite {bonwick:zfs}{{23}{4.2}{section.4.2}}
+\backcite {rosenblum:lfs}{{23}{4.2}{section.4.2}}
+\backcite {tweedie:ext3}{{24}{\caption@xref {??}{ on input line 155}}{table.caption.12}}
+\backcite {rodeh:btrfs}{{24}{\caption@xref {??}{ on input line 156}}{table.caption.12}}
+\backcite {bonwick:zfs}{{24}{\caption@xref {??}{ on input line 157}}{table.caption.12}}
+\backcite {rosenblum:lfs}{{24}{\caption@xref {??}{ on input line 158}}{table.caption.12}}
+\backcite {tweedie:ext3}{{24}{4.2}{table.caption.12}}
+\backcite {love:linuxkernel,tanenbaum:mos}{{27}{5}{figure.caption.13}}
+\backcite {love:linuxkernel,tanenbaum:mos}{{27}{5}{figure.caption.13}}
+\backcite {silberschatz:osc}{{28}{5.2}{section.5.2}}
+\backcite {stallings:os}{{28}{5.3}{section.5.3}}
+\backcite {tanenbaum:mos,silberschatz:osc}{{29}{6}{chapter.6}}
+\backcite {tanenbaum:mos,silberschatz:osc}{{29}{6}{chapter.6}}
+\backcite {love:linuxkernel}{{29}{6.2}{Item.3}}
+\backcite {tanenbaum:mos}{{30}{\caption@xref {??}{ on input line 73}}{table.caption.15}}
+\backcite {silberschatz:osc}{{30}{\caption@xref {??}{ on input line 74}}{table.caption.15}}
+\backcite {stallings:os}{{30}{\caption@xref {??}{ on input line 75}}{table.caption.15}}
+\backcite {love:linuxkernel}{{30}{\caption@xref {??}{ on input line 76}}{table.caption.15}}
+\backcite {love:linuxkernel}{{30}{\caption@xref {??}{ on input line 77}}{table.caption.15}}
+\backcite {love:linuxkernel}{{30}{6.3}{section.6.3}}
+\backcite {patterson:hennessy}{{32}{7.1}{figure.caption.16}}
+\backcite {tanenbaum:mos,silberschatz:osc}{{32}{7.2}{section.7.2}}
+\backcite {tanenbaum:mos,silberschatz:osc}{{32}{7.2}{section.7.2}}
+\backcite {stallings:os}{{32}{7.2}{section.7.2}}
+\backcite {silberschatz:osc}{{32}{7.2}{section.7.2}}
+\backcite {patterson:hennessy}{{32}{7.2}{section.7.2}}
+\backcite {silberschatz:osc}{{32}{\caption@xref {??}{ on input line 142}}{table.caption.17}}
+\backcite {stallings:os}{{32}{\caption@xref {??}{ on input line 143}}{table.caption.17}}
+\backcite {love:linuxkernel}{{32}{\caption@xref {??}{ on input line 144}}{table.caption.17}}
+\backcite {tanenbaum:mos}{{32}{\caption@xref {??}{ on input line 145}}{table.caption.17}}

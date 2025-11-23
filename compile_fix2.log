@@ -1,0 +1,2289 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-10-24>
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/abntex2\abntex2.cls
+Document Class: abntex2 2018/11/24 v-1.9.7 abnTeX2
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/memoir\memoir.cls
+Document Class: memoir 2025/11/04 v3.8.4b configurable book, report, article do
+cument class
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/memoir\mem12.clo)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\dcolumn.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\delarray.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+)))) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/base\shortvrb.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/textcase\textcase.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\backref.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty)))) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/memoir\memhfixc.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
+)) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+
+Package babel Warning: Configuration files are deprecated, as
+(babel)                they can break document portability.
+(babel)                Reported on input line 4172.
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel
+-english.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/pt\babel
+-brazilian.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/pt\babel
+-brazil.tex
+
+Package babel Warning: Name 'brazil' is deprecated.
+(babel)                Use 'brazilian' instead.
+(babel)                Reported on input line 19.
+
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
+df)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/babel-portuges\brazilia
+n.ldf)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/babel-portuges\brazilia
+n.ldf))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty)
+
+******************************************************
+Stock height and width: 845.04684pt by 597.50787pt
+Top and edge trims: 0pt and 0pt
+Page height and width: 845.04684pt by 597.50787pt
+Text height and width: 708pt by 455pt
+Spine and edge margins: 85.35826pt and 56.9055pt
+Upper and lower margins: 85.35826pt and 51.68858pt
+Headheight and headsep: 14.5pt and 19.8738pt
+Footskip: 30pt
+Columnsep and columnseprule: 10pt and 0pt
+Marginparsep and marginparwidth: 7pt and 42.9055pt
+Sidecapsep and sidecapwidth: 7pt and 92pt
+Sidebarhsep and sidebarwidth: 7pt and 92pt
+Sidebarvsep and sidebartopsep: 14.5pt and 0pt
+Sidebarheight: 590.14995pt
+Sidefoothsep and sidefootwidth: 7pt and 92pt
+Sidefootvsep and sidefootheight: 14.5pt and 590.14995pt
+******************************************************
+
+
+Class memoir Warning: \settocpreprocessor is marked deprecated and will be
+(memoir)              removed in 2026, the problem it tried to solve 
+(memoir)              (see manual, section 9.2.3),
+(memoir)              has been fixed in the kernel, and the feature is
+(memoir)              no longer needed. on input line 483.
+
+) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty)
+(pacotes.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
+tex.def)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/xurl\xurl.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+For additional information on amsmath, use the `?' option.
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/ncctools\nccmath.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/translations\translatio
+ns.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/was\icomma.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+))) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption-memoir.
+sto)))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/multirow\bigstrut.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/multirow\bigdelim.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+libraryfiltered.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def)))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex)))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex)))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-euclide
+.sty
+2025/09/17 5.11c tkz-euclide.sty
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryangles.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryarrows.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryarrows.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryarrows.meta.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarybackgrounds.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarycalc.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+decorations.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.markings.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.markings.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.pathreplacing.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.pathreplacing.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.shapes.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.shapes.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.text.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.text.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.pathmorphing.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.pathmorphing.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryintersections.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryintersections.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryfpu.code.tex)))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarymath.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryfpu.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryplotmarks.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplotmarks.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarypositioning.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryquotes.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.misc.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.misc.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarythrough.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xfp\xfp.sty)
+Local configuration file tkz-euclide.cfg found and used
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-euclide
+.cfg
+2025/09/17 5.11c tkz-euclide.cfg
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/tools\tkz-t
+ools-eu-base.tex
+2025/09/17 5.11c tkz-tools-eu-base.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/tools\tkz-t
+ools-eu-utilities.tex
+2025/09/17 5.11c tkz-tools-eu-utilities.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/tools\tkz-t
+ools-eu-BB.tex
+2025/09/17 5.11c tkz-obj-eu-BB.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-grids.tex
+2025/09/17 5.11c tkz-obj-eu-grids.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/libs\tkz-li
+b-eu-marks.tex
+2025/09/17 5.11c tkz-lib-eu-marks.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/tools\tkz-t
+ools-eu-text.tex
+2025/09/17 5.11c tkz-tools-eu-text.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/libs\tkz-li
+b-eu-shape.tex
+2025/09/17 5.11c tkz-lib-eu-shape.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-axesmin.tex
+2025/09/17 5.11c tkz-obj-eu-axesmin
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/tools\tkz-t
+ools-eu-colors.tex
+2025/09/17 5.11c tkz-tools-eu-colors
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-points.tex
+2025/09/17 5.11c tkz-obj-eu-points.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-points.tex
+2025/09/17 5.11c tkz-draw-eu-points.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-points.tex
+2025/09/17 5.11c tkz-obj-eu-points.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-points-by.tex
+2025/09/17 5.11c tkz-tools-eu-points-by.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/tools\tkz-t
+ools-eu-math.tex
+2025/09/17 5.11c tkz-tools-eu-math.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/tools\tkz-t
+ools-eu-intersections.tex
+2025/09/17 5.11c tkz-tools-eu-intersections.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-points-with.tex
+2025/09/17 5.11c tkz-obj-eu-points-with.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-points-spc.tex
+2025/09/17 5.11c tkz-obj-el-points.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/tools\tkz-t
+ools-eu-angles.tex
+2025/09/17 5.11c tkz-tools-eu-angles.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-circles.tex
+2025/09/17 5.11c tkz-obj-eu-circles.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-circles-by.tex
+2025/09/17 5.11c tkz-obj-eu-circles.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-points-rnd.tex
+2025/09/17 5.11c tkz-obj-eu-points-rnd.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-lines.tex
+2025/09/17 5.11c tkz-obj-eu-lines.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-polygons.tex
+2025/09/17 5.11c tkz-obj-eu-polygons.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-triangles.tex
+2025/09/17 5.11c tkz-obj-eu-triangles.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-lines.tex
+2025/09/17 5.11c tkz-obj-eu-draw-lines.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-circles.tex
+2025/09/17 5.11c tkz-obj-eu-draw-circles.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-ellipses.tex
+2025/09/17 5.11c tkz-obj-eu-draw-ellipses.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-polygons.tex
+2025/09/17 5.11c tkz-obj-eu-polygons.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-arcs.tex
+2025/09/17 5.11c tkz-tool-eu-arcs.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-angles.tex
+2025/09/17 5.11c tkz-tool-eu-angles.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-sectors.tex
+2025/09/17 5.11c tkz-obj-eu-sectors.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-compass.tex
+2025/09/17 5.11c tkz-obj-eu-compass.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-show.tex
+2025/09/17 5.11c tkz-obj-eu-show.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-protractor.tex
+2025/09/17 5.11c tkz-obj-eu-protractor.tex
+))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryscopes.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/abntex2\abntex2cite.sty
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/abntex2\abntex2abrev.st
+y) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/relsize\relsize.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.rev
+ision.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.cod
+e.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscore
+.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplots
+sysgeneric.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfplot
+slibrary.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompat
+ib\pgfplotsoldpgfsupp_loader.code.tex
+Package pgfplots: loading complementary utilities for your pgf version...
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompat
+ib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sutil.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsliststructure.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsliststructureext.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsarray.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsmatrix.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\pgf
+plotstableshared.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsdeque.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sbinary.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sbinary.data.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sutil.verb.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibr
+arypgfplots.surfshading.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflibra
+rypgfplots.surfshading.pgfsys-pdftex.def)))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+scolormap.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+scolor.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsstac
+kedplots.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsplot
+handlers.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmesh
+plothandler.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmesh
+plotimage.code.tex)))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.sca
+ling.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscoor
+dprocessing.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.err
+orbars.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.mar
+kers.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotstick
+s.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.pat
+hs.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlib
+rarypgfplots.contourlua.code.tex)))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossar
+ies.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex)
+))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tracklang\tracklang.sty
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/tracklang\tracklang.t
+ex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator.s
+ty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-english\glos
+saries-english.ldf)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-portuges\glo
+ssaries-pt-BR.ldf
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-portuges\glo
+ssaries-portuges-utf8.ldf))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-base.
+sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-l3fp.
+def)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-utf8.
+ldf)
+
+Package tracklang Warning: No `datatool' support for dialect `english'  on inpu
+t line 9924.
+
+
+Package tracklang Warning: No `datatool' support for dialect `brazilian'  on in
+put line 9924.
+
+
+Package tracklang Warning: No `datatool' support for dialect `brazilian'  on in
+put line 9924.
+
+)
+
+Package glossaries Warning: Overriding \printglossary on input line 6477.
+
+
+Package glossaries Warning: Overriding `theglossary' environment on input line 
+7676.
+
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-hypernav.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-list.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-long.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-super.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabul
+ar.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-tree.sty)))
+Writing index file main.idx 
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd)
+No file main.aux.
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\tran
+slations-basic-dictionary-brazil.trsl)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\tran
+slations-basic-dictionary-english.trsl)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty)
+Package pgfplots notification 'compat/show suggested version=true': you might b
+enefit from \pgfplotsset{compat=1.18} (current compat level: 1.17).
+
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-english\glos
+saries-dictionary-English.dict)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-portuges\glo
+ssaries-dictionary-Brazilian.dict)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmss.fd) [1{C:/Us
+ers/rober/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/rober/AppD
+ata/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/rober/AppData/
+Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc} <./UVV.jpg>] [2]
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.125 
+       [1]
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.139 \end{epigrafe}
+                     [2] [3] [4] [5] [6]
+No file main.lof.
+[7] [8] (main.lot) [9] [10] [11] [12] [13] [14]
+No file main.toc.
+[15] [16] (inputs/discos.tex [17] [18]
+Cap\'{\i }tulo 1.
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd) [19]
+[20]
+Cap\'{\i }tulo 2.
+[21] [22]
+Cap\'{\i }tulo 3.
+[23] [24]
+Cap\'{\i }tulo 4.
+[25]) [26] (inputs/permissoes.tex [27] [28]
+Cap\'{\i }tulo 5.
+[29] [30]
+Cap\'{\i }tulo 6.
+[31] [32]
+Cap\'{\i }tulo 7.
+
+Underfull \hbox (badness 1205) in paragraph at lines 58--58
+[]\T1/lmss/m/n/24.88 (+20) GERENCIAMENTO DE ME-M”-RIA
+) [33]
+No file main.bbl.
+No file main.gls.
+[34]
+(C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Operacionais\build\main.a
+ux (inputs/discos.aux) (inputs/permissoes.aux)) )
+(see the transcript file for additional information)<C:/Users/rober/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/rober/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/rober/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/rober/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/rober/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/rober/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/rober/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/rober/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/rober/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
+Output written on C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Operacio
+nais\build\main.pdf (36 pages, 533784 bytes).
+Transcript written on C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Oper
+acionais\build\main.log.
+This is BibTeX, Version 0.99d (MiKTeX 25.4)
+The top-level auxiliary file: main.aux
+I couldn't open database file ref.bib
+---line 64 of file main.aux
+ : \bibdata{abntex2-options,ref
+ :                             }
+I'm skipping whatever remains of this command
+The style file: abntex2-alf.bst
+Database file #1: abntex2-options.bib
+Repeated entry---line 11 of file abntex2-options.bib
+ : @abnt-options{abnt-cite-style=AuthorYEAR
+ :                                         ,
+I'm skipping whatever remains of this entry
+128 isn't valid ASCII for entry abnt-full-initials=yes
+while executing---line 2117 of file abntex2-alf.bst
+129 isn't valid ASCII for entry abnt-last-names=abnt
+while executing---line 2117 of file abntex2-alf.bst
+130 isn't valid ASCII for entry abnt-last-names=bibtex
+while executing---line 2117 of file abntex2-alf.bst
+131 isn't valid ASCII for entry abnt-ldots-type=normal
+while executing---line 2117 of file abntex2-alf.bst
+132 isn't valid ASCII for entry abnt-ldots-type=none
+while executing---line 2117 of file abntex2-alf.bst
+133 isn't valid ASCII for entry abnt-ldots-type=math
+while executing---line 2117 of file abntex2-alf.bst
+134 isn't valid ASCII for entry abnt-ldots-type=text
+while executing---line 2117 of file abntex2-alf.bst
+135 isn't valid ASCII for entry abnt-missing-year=void
+while executing---line 2117 of file abntex2-alf.bst
+136 isn't valid ASCII for entry abnt-missing-year=sd
+while executing---line 2117 of file abntex2-alf.bst
+137 isn't valid ASCII for entry abnt-nbr6023=2002
+while executing---line 2117 of file abntex2-alf.bst
+138 isn't valid ASCII for entry abnt-nbr6023=2000
+while executing---line 2117 of file abntex2-alf.bst
+139 isn't valid ASCII for entry abnt-nbr10520=2002
+while executing---line 2117 of file abntex2-alf.bst
+140 isn't valid ASCII for entry abnt-nbr10520=2001
+while executing---line 2117 of file abntex2-alf.bst
+141 isn't valid ASCII for entry abnt-nbr10520=1988
+while executing---line 2117 of file abntex2-alf.bst
+142 isn't valid ASCII for entry abnt-no-etal-label=yes
+while executing---line 2117 of file abntex2-alf.bst
+143 isn't valid ASCII for entry abnt-no-etal-label=no
+while executing---line 2117 of file abntex2-alf.bst
+144 isn't valid ASCII for entry abnt-refinfo=yes
+while executing---line 2117 of file abntex2-alf.bst
+145 isn't valid ASCII for entry abnt-refinfo=no
+while executing---line 2117 of file abntex2-alf.bst
+146 isn't valid ASCII for entry abnt-repeated-author-omit=no
+while executing---line 2117 of file abntex2-alf.bst
+147 isn't valid ASCII for entry abnt-repeated-author-omit=yes
+while executing---line 2117 of file abntex2-alf.bst
+148 isn't valid ASCII for entry abnt-repeated-title-omit=no
+while executing---line 2117 of file abntex2-alf.bst
+149 isn't valid ASCII for entry abnt-repeated-title-omit=yes
+while executing---line 2117 of file abntex2-alf.bst
+150 isn't valid ASCII for entry abnt-show-options=no
+while executing---line 2117 of file abntex2-alf.bst
+151 isn't valid ASCII for entry abnt-show-options=warn
+while executing---line 2117 of file abntex2-alf.bst
+152 isn't valid ASCII for entry abnt-show-options=list
+while executing---line 2117 of file abntex2-alf.bst
+153 isn't valid ASCII for entry abnt-substyle=none
+while executing---line 2117 of file abntex2-alf.bst
+154 isn't valid ASCII for entry abnt-substyle=UFLA
+while executing---line 2117 of file abntex2-alf.bst
+155 isn't valid ASCII for entry abnt-substyle=COPPE
+while executing---line 2117 of file abntex2-alf.bst
+156 isn't valid ASCII for entry abnt-thesis-year=final
+while executing---line 2117 of file abntex2-alf.bst
+157 isn't valid ASCII for entry abnt-thesis-year=title
+while executing---line 2117 of file abntex2-alf.bst
+158 isn't valid ASCII for entry abnt-thesis-year=both
+while executing---line 2117 of file abntex2-alf.bst
+159 isn't valid ASCII for entry abnt-title-command=no
+while executing---line 2117 of file abntex2-alf.bst
+160 isn't valid ASCII for entry abnt-title-command=yes
+while executing---line 2117 of file abntex2-alf.bst
+161 isn't valid ASCII for entry abnt-url-package=none
+while executing---line 2117 of file abntex2-alf.bst
+162 isn't valid ASCII for entry abnt-url-package=hyperref
+while executing---line 2117 of file abntex2-alf.bst
+163 isn't valid ASCII for entry abnt-verbatim-entry=no
+while executing---line 2117 of file abntex2-alf.bst
+164 isn't valid ASCII for entry iso-690-1987
+while executing---line 2117 of file abntex2-alf.bst
+Warning--op√ß√£o abnt-show-options passou para warn
+You can't pop an empty literal stack for entry iso-690-1987
+while executing---line 2146 of file abntex2-alf.bst
+ptr=1, stack=
+Op\c c\~ao selecionada {\tt iso-date-place=}\verb+ISO+
+---the literal stack isn't empty for entry iso-690-1987
+while executing---line 2146 of file abntex2-alf.bst
++---------------------------------------------------------+
+| Estilo bibliogr√°fico abntex2-alf.bst vers√£o v-1.9.7           |
+| Em caso de d√∫vidas ou problemas com este estilo procure |
+| http://www.abntex.net.br/                               |
++---------------------------------------------------------+
+(There were 41 error messages)
+makeglossaries version 4.7 (2025-05-14)
+added glossary type 'main' (glg,gls,glo)
+makeindex  -s "main.ist" -t "main.glg" -o "main.gls" "main.glo"
+This is makeindex, version 2.16 [MiKTeX 25.4].
+Scanning style file ./main.ist...........................done (27 attributes redefined, 0 ignored).
+Scanning input file main.glo....done (8 entries accepted, 0 rejected).
+Sorting entries....done (23 comparisons).
+Generating output file main.gls....done (21 lines written, 0 warnings).
+Output written in main.gls.
+Transcript written in main.glg.
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-10-24>
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/abntex2\abntex2.cls
+Document Class: abntex2 2018/11/24 v-1.9.7 abnTeX2
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/memoir\memoir.cls
+Document Class: memoir 2025/11/04 v3.8.4b configurable book, report, article do
+cument class
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/memoir\mem12.clo)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\dcolumn.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\delarray.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+)))) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/base\shortvrb.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/textcase\textcase.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\backref.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty)))) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/memoir\memhfixc.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
+)) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+
+Package babel Warning: Configuration files are deprecated, as
+(babel)                they can break document portability.
+(babel)                Reported on input line 4172.
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel
+-english.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/pt\babel
+-brazilian.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/pt\babel
+-brazil.tex
+
+Package babel Warning: Name 'brazil' is deprecated.
+(babel)                Use 'brazilian' instead.
+(babel)                Reported on input line 19.
+
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
+df)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/babel-portuges\brazilia
+n.ldf)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/babel-portuges\brazilia
+n.ldf))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty)
+
+******************************************************
+Stock height and width: 845.04684pt by 597.50787pt
+Top and edge trims: 0pt and 0pt
+Page height and width: 845.04684pt by 597.50787pt
+Text height and width: 708pt by 455pt
+Spine and edge margins: 85.35826pt and 56.9055pt
+Upper and lower margins: 85.35826pt and 51.68858pt
+Headheight and headsep: 14.5pt and 19.8738pt
+Footskip: 30pt
+Columnsep and columnseprule: 10pt and 0pt
+Marginparsep and marginparwidth: 7pt and 42.9055pt
+Sidecapsep and sidecapwidth: 7pt and 92pt
+Sidebarhsep and sidebarwidth: 7pt and 92pt
+Sidebarvsep and sidebartopsep: 14.5pt and 0pt
+Sidebarheight: 590.14995pt
+Sidefoothsep and sidefootwidth: 7pt and 92pt
+Sidefootvsep and sidefootheight: 14.5pt and 590.14995pt
+******************************************************
+
+
+Class memoir Warning: \settocpreprocessor is marked deprecated and will be
+(memoir)              removed in 2026, the problem it tried to solve 
+(memoir)              (see manual, section 9.2.3),
+(memoir)              has been fixed in the kernel, and the feature is
+(memoir)              no longer needed. on input line 483.
+
+) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty)
+(pacotes.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
+tex.def)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/xurl\xurl.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+For additional information on amsmath, use the `?' option.
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/ncctools\nccmath.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/translations\translatio
+ns.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/was\icomma.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+))) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption-memoir.
+sto)))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/multirow\bigstrut.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/multirow\bigdelim.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+libraryfiltered.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def)))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex)))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex)))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-euclide
+.sty
+2025/09/17 5.11c tkz-euclide.sty
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryangles.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryarrows.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryarrows.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryarrows.meta.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarybackgrounds.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarycalc.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+decorations.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.markings.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.markings.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.pathreplacing.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.pathreplacing.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.shapes.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.shapes.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.text.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.text.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.pathmorphing.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.pathmorphing.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryintersections.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryintersections.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryfpu.code.tex)))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarymath.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryfpu.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryplotmarks.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplotmarks.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarypositioning.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryquotes.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.misc.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.misc.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarythrough.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xfp\xfp.sty)
+Local configuration file tkz-euclide.cfg found and used
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-euclide
+.cfg
+2025/09/17 5.11c tkz-euclide.cfg
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/tools\tkz-t
+ools-eu-base.tex
+2025/09/17 5.11c tkz-tools-eu-base.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/tools\tkz-t
+ools-eu-utilities.tex
+2025/09/17 5.11c tkz-tools-eu-utilities.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/tools\tkz-t
+ools-eu-BB.tex
+2025/09/17 5.11c tkz-obj-eu-BB.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-grids.tex
+2025/09/17 5.11c tkz-obj-eu-grids.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/libs\tkz-li
+b-eu-marks.tex
+2025/09/17 5.11c tkz-lib-eu-marks.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/tools\tkz-t
+ools-eu-text.tex
+2025/09/17 5.11c tkz-tools-eu-text.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/libs\tkz-li
+b-eu-shape.tex
+2025/09/17 5.11c tkz-lib-eu-shape.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-axesmin.tex
+2025/09/17 5.11c tkz-obj-eu-axesmin
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/tools\tkz-t
+ools-eu-colors.tex
+2025/09/17 5.11c tkz-tools-eu-colors
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-points.tex
+2025/09/17 5.11c tkz-obj-eu-points.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-points.tex
+2025/09/17 5.11c tkz-draw-eu-points.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-points.tex
+2025/09/17 5.11c tkz-obj-eu-points.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-points-by.tex
+2025/09/17 5.11c tkz-tools-eu-points-by.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/tools\tkz-t
+ools-eu-math.tex
+2025/09/17 5.11c tkz-tools-eu-math.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/tools\tkz-t
+ools-eu-intersections.tex
+2025/09/17 5.11c tkz-tools-eu-intersections.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-points-with.tex
+2025/09/17 5.11c tkz-obj-eu-points-with.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-points-spc.tex
+2025/09/17 5.11c tkz-obj-el-points.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/tools\tkz-t
+ools-eu-angles.tex
+2025/09/17 5.11c tkz-tools-eu-angles.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-circles.tex
+2025/09/17 5.11c tkz-obj-eu-circles.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-circles-by.tex
+2025/09/17 5.11c tkz-obj-eu-circles.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-points-rnd.tex
+2025/09/17 5.11c tkz-obj-eu-points-rnd.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-lines.tex
+2025/09/17 5.11c tkz-obj-eu-lines.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-polygons.tex
+2025/09/17 5.11c tkz-obj-eu-polygons.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-triangles.tex
+2025/09/17 5.11c tkz-obj-eu-triangles.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-lines.tex
+2025/09/17 5.11c tkz-obj-eu-draw-lines.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-circles.tex
+2025/09/17 5.11c tkz-obj-eu-draw-circles.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-ellipses.tex
+2025/09/17 5.11c tkz-obj-eu-draw-ellipses.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-polygons.tex
+2025/09/17 5.11c tkz-obj-eu-polygons.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-arcs.tex
+2025/09/17 5.11c tkz-tool-eu-arcs.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-angles.tex
+2025/09/17 5.11c tkz-tool-eu-angles.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-sectors.tex
+2025/09/17 5.11c tkz-obj-eu-sectors.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-compass.tex
+2025/09/17 5.11c tkz-obj-eu-compass.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-show.tex
+2025/09/17 5.11c tkz-obj-eu-show.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-protractor.tex
+2025/09/17 5.11c tkz-obj-eu-protractor.tex
+))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryscopes.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/abntex2\abntex2cite.sty
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/abntex2\abntex2abrev.st
+y) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/relsize\relsize.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.rev
+ision.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.cod
+e.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscore
+.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplots
+sysgeneric.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfplot
+slibrary.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompat
+ib\pgfplotsoldpgfsupp_loader.code.tex
+Package pgfplots: loading complementary utilities for your pgf version...
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompat
+ib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sutil.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsliststructure.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsliststructureext.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsarray.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsmatrix.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\pgf
+plotstableshared.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsdeque.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sbinary.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sbinary.data.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sutil.verb.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibr
+arypgfplots.surfshading.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflibra
+rypgfplots.surfshading.pgfsys-pdftex.def)))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+scolormap.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+scolor.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsstac
+kedplots.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsplot
+handlers.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmesh
+plothandler.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmesh
+plotimage.code.tex)))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.sca
+ling.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscoor
+dprocessing.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.err
+orbars.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.mar
+kers.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotstick
+s.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.pat
+hs.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlib
+rarypgfplots.contourlua.code.tex)))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossar
+ies.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex)
+))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tracklang\tracklang.sty
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/tracklang\tracklang.t
+ex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator.s
+ty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-english\glos
+saries-english.ldf)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-portuges\glo
+ssaries-pt-BR.ldf
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-portuges\glo
+ssaries-portuges-utf8.ldf))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-base.
+sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-l3fp.
+def)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-utf8.
+ldf)
+
+Package tracklang Warning: No `datatool' support for dialect `english'  on inpu
+t line 9924.
+
+
+Package tracklang Warning: No `datatool' support for dialect `brazilian'  on in
+put line 9924.
+
+
+Package tracklang Warning: No `datatool' support for dialect `brazilian'  on in
+put line 9924.
+
+)
+
+Package glossaries Warning: Overriding \printglossary on input line 6477.
+
+
+Package glossaries Warning: Overriding `theglossary' environment on input line 
+7676.
+
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-hypernav.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-list.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-long.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-super.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabul
+ar.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-tree.sty)))
+Writing index file main.idx 
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd)
+(C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Operacionais\build\main.a
+ux (inputs/discos.aux) (inputs/permissoes.aux))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\tran
+slations-basic-dictionary-brazil.trsl)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\tran
+slations-basic-dictionary-english.trsl)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty)
+Package pgfplots notification 'compat/show suggested version=true': you might b
+enefit from \pgfplotsset{compat=1.18} (current compat level: 1.17).
+
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-english\glos
+saries-dictionary-English.dict)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-portuges\glo
+ssaries-dictionary-Brazilian.dict)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmss.fd) [1{C:/Us
+ers/rober/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/rober/AppD
+ata/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/rober/AppData/
+Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc} <./UVV.jpg>] [2]
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.125 
+       [1]
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.139 \end{epigrafe}
+                     [2] [3] [4] [5] [6]
+(C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Operacionais\build\main.l
+of) [7] [8] (main.lot) [9] [10] [11] [12] [13] [14]
+(C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Operacionais\build\main.t
+oc (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg)
+[15]) [16] (inputs/discos.tex [17] [18]
+Cap\'{\i }tulo 1.
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd) [19]
+[20]
+Cap\'{\i }tulo 2.
+[21] [22]
+Cap\'{\i }tulo 3.
+[23] [24]
+Cap\'{\i }tulo 4.
+[25]) [26] (inputs/permissoes.tex [27] [28]
+Cap\'{\i }tulo 5.
+[29] [30]
+Cap\'{\i }tulo 6.
+[31] [32]
+Cap\'{\i }tulo 7.
+
+Underfull \hbox (badness 1205) in paragraph at lines 58--58
+[]\T1/lmss/m/n/24.88 (+20) GERENCIAMENTO DE ME-M”-RIA
+) [33]
+(C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Operacionais\build\main.b
+bl (main.brf) [34]
+bibitemlist
+
+! Class memoir Error: Font command \tt is not supported.
+
+See the memoir class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111 
+      
+!  ==> Fatal error occurred, no output PDF file produced!
+Transcript written on C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Oper
+acionais\build\main.log.
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-10-24>
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/abntex2\abntex2.cls
+Document Class: abntex2 2018/11/24 v-1.9.7 abnTeX2
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/memoir\memoir.cls
+Document Class: memoir 2025/11/04 v3.8.4b configurable book, report, article do
+cument class
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/memoir\mem12.clo)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\dcolumn.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\delarray.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+)))) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/base\shortvrb.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/textcase\textcase.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\backref.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty)))) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/memoir\memhfixc.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
+)) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+
+Package babel Warning: Configuration files are deprecated, as
+(babel)                they can break document portability.
+(babel)                Reported on input line 4172.
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel
+-english.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/pt\babel
+-brazilian.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/pt\babel
+-brazil.tex
+
+Package babel Warning: Name 'brazil' is deprecated.
+(babel)                Use 'brazilian' instead.
+(babel)                Reported on input line 19.
+
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
+df)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/babel-portuges\brazilia
+n.ldf)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/babel-portuges\brazilia
+n.ldf))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty)
+
+******************************************************
+Stock height and width: 845.04684pt by 597.50787pt
+Top and edge trims: 0pt and 0pt
+Page height and width: 845.04684pt by 597.50787pt
+Text height and width: 708pt by 455pt
+Spine and edge margins: 85.35826pt and 56.9055pt
+Upper and lower margins: 85.35826pt and 51.68858pt
+Headheight and headsep: 14.5pt and 19.8738pt
+Footskip: 30pt
+Columnsep and columnseprule: 10pt and 0pt
+Marginparsep and marginparwidth: 7pt and 42.9055pt
+Sidecapsep and sidecapwidth: 7pt and 92pt
+Sidebarhsep and sidebarwidth: 7pt and 92pt
+Sidebarvsep and sidebartopsep: 14.5pt and 0pt
+Sidebarheight: 590.14995pt
+Sidefoothsep and sidefootwidth: 7pt and 92pt
+Sidefootvsep and sidefootheight: 14.5pt and 590.14995pt
+******************************************************
+
+
+Class memoir Warning: \settocpreprocessor is marked deprecated and will be
+(memoir)              removed in 2026, the problem it tried to solve 
+(memoir)              (see manual, section 9.2.3),
+(memoir)              has been fixed in the kernel, and the feature is
+(memoir)              no longer needed. on input line 483.
+
+) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty)
+(pacotes.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdf
+tex.def)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/xurl\xurl.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+For additional information on amsmath, use the `?' option.
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/ncctools\nccmath.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/translations\translatio
+ns.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/was\icomma.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+))) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption-memoir.
+sto)))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/multirow\bigstrut.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/multirow\bigdelim.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+libraryfiltered.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def)))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex)))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex)))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-euclide
+.sty
+2025/09/17 5.11c tkz-euclide.sty
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryangles.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryarrows.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryarrows.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryarrows.meta.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarybackgrounds.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarycalc.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+decorations.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.markings.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.markings.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.pathreplacing.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.pathreplacing.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.shapes.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.shapes.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.text.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.text.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarydecorations.pathmorphing.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorat
+ions\pgflibrarydecorations.pathmorphing.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryintersections.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryintersections.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryfpu.code.tex)))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarymath.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryfpu.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryplotmarks.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplotmarks.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarypositioning.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryquotes.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryshapes.misc.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shapes\
+pgflibraryshapes.misc.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarythrough.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xfp\xfp.sty)
+Local configuration file tkz-euclide.cfg found and used
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide\tkz-euclide
+.cfg
+2025/09/17 5.11c tkz-euclide.cfg
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/tools\tkz-t
+ools-eu-base.tex
+2025/09/17 5.11c tkz-tools-eu-base.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/tools\tkz-t
+ools-eu-utilities.tex
+2025/09/17 5.11c tkz-tools-eu-utilities.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/tools\tkz-t
+ools-eu-BB.tex
+2025/09/17 5.11c tkz-obj-eu-BB.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-grids.tex
+2025/09/17 5.11c tkz-obj-eu-grids.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/libs\tkz-li
+b-eu-marks.tex
+2025/09/17 5.11c tkz-lib-eu-marks.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/tools\tkz-t
+ools-eu-text.tex
+2025/09/17 5.11c tkz-tools-eu-text.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/libs\tkz-li
+b-eu-shape.tex
+2025/09/17 5.11c tkz-lib-eu-shape.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-axesmin.tex
+2025/09/17 5.11c tkz-obj-eu-axesmin
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/tools\tkz-t
+ools-eu-colors.tex
+2025/09/17 5.11c tkz-tools-eu-colors
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-points.tex
+2025/09/17 5.11c tkz-obj-eu-points.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-points.tex
+2025/09/17 5.11c tkz-draw-eu-points.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-points.tex
+2025/09/17 5.11c tkz-obj-eu-points.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-points-by.tex
+2025/09/17 5.11c tkz-tools-eu-points-by.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/tools\tkz-t
+ools-eu-math.tex
+2025/09/17 5.11c tkz-tools-eu-math.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/tools\tkz-t
+ools-eu-intersections.tex
+2025/09/17 5.11c tkz-tools-eu-intersections.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-points-with.tex
+2025/09/17 5.11c tkz-obj-eu-points-with.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-points-spc.tex
+2025/09/17 5.11c tkz-obj-el-points.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/tools\tkz-t
+ools-eu-angles.tex
+2025/09/17 5.11c tkz-tools-eu-angles.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-circles.tex
+2025/09/17 5.11c tkz-obj-eu-circles.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-circles-by.tex
+2025/09/17 5.11c tkz-obj-eu-circles.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-points-rnd.tex
+2025/09/17 5.11c tkz-obj-eu-points-rnd.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-lines.tex
+2025/09/17 5.11c tkz-obj-eu-lines.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-polygons.tex
+2025/09/17 5.11c tkz-obj-eu-polygons.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/obj\tkz-obj
+-eu-triangles.tex
+2025/09/17 5.11c tkz-obj-eu-triangles.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-lines.tex
+2025/09/17 5.11c tkz-obj-eu-draw-lines.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-circles.tex
+2025/09/17 5.11c tkz-obj-eu-draw-circles.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-ellipses.tex
+2025/09/17 5.11c tkz-obj-eu-draw-ellipses.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-polygons.tex
+2025/09/17 5.11c tkz-obj-eu-polygons.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-arcs.tex
+2025/09/17 5.11c tkz-tool-eu-arcs.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-angles.tex
+2025/09/17 5.11c tkz-tool-eu-angles.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-sectors.tex
+2025/09/17 5.11c tkz-obj-eu-sectors.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-compass.tex
+2025/09/17 5.11c tkz-obj-eu-compass.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-show.tex
+2025/09/17 5.11c tkz-obj-eu-show.tex
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tkz-euclide/drawings\tk
+z-draw-eu-protractor.tex
+2025/09/17 5.11c tkz-obj-eu-protractor.tex
+))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibraryscopes.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/abntex2\abntex2cite.sty
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/abntex2\abntex2abrev.st
+y) (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/relsize\relsize.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.rev
+ision.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.cod
+e.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscore
+.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplots
+sysgeneric.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfplot
+slibrary.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompat
+ib\pgfplotsoldpgfsupp_loader.code.tex
+Package pgfplots: loading complementary utilities for your pgf version...
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompat
+ib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sutil.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsliststructure.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsliststructureext.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsarray.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsmatrix.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\pgf
+plotstableshared.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructur
+e\pgfplotsdeque.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sbinary.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sbinary.data.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+sutil.verb.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibr
+arypgfplots.surfshading.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflibra
+rypgfplots.surfshading.pgfsys-pdftex.def)))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+scolormap.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplot
+scolor.code.tex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsstac
+kedplots.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsplot
+handlers.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmesh
+plothandler.code.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmesh
+plotimage.code.tex)))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.sca
+ling.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscoor
+dprocessing.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.err
+orbars.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.mar
+kers.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotstick
+s.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.pat
+hs.code.tex)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlib
+rarypgfplots.contourlua.code.tex)))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/base\glossar
+ies.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex)
+))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/mfirstuc\mfirstuc.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/xfor\xfor.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tracklang\tracklang.sty
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/generic/tracklang\tracklang.t
+ex))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator.s
+ty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-english\glos
+saries-english.ldf)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-portuges\glo
+ssaries-pt-BR.ldf
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-portuges\glo
+ssaries-portuges-utf8.ldf))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-base.
+sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-l3fp.
+def)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/datatool\datatool-utf8.
+ldf)
+
+Package tracklang Warning: No `datatool' support for dialect `english'  on inpu
+t line 9924.
+
+
+Package tracklang Warning: No `datatool' support for dialect `brazilian'  on in
+put line 9924.
+
+
+Package tracklang Warning: No `datatool' support for dialect `brazilian'  on in
+put line 9924.
+
+)
+
+Package glossaries Warning: Overriding \printglossary on input line 6477.
+
+
+Package glossaries Warning: Overriding `theglossary' environment on input line 
+7676.
+
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-hypernav.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-list.sty)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-long.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-super.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/supertabular\supertabul
+ar.sty))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries/styles\gloss
+ary-tree.sty)))
+Writing index file main.idx 
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd)
+(C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Operacionais\build\main.a
+ux (inputs/discos.aux) (inputs/permissoes.aux))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\tran
+slations-basic-dictionary-brazil.trsl)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\tran
+slations-basic-dictionary-english.trsl)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg))
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty)
+Package pgfplots notification 'compat/show suggested version=true': you might b
+enefit from \pgfplotsset{compat=1.18} (current compat level: 1.17).
+
+
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-english\glos
+saries-dictionary-English.dict)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/glossaries-portuges\glo
+ssaries-dictionary-Brazilian.dict)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmss.fd) [1{C:/Us
+ers/rober/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/rober/AppD
+ata/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/rober/AppData/
+Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc} <./UVV.jpg>] [2]
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.125 
+       [1]
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.139 \end{epigrafe}
+                     [2] [3] [4] [5] [6]
+(C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Operacionais\build\main.l
+of) [7] [8] (main.lot) [9] [10] [11] [12] [13] [14]
+(C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Operacionais\build\main.t
+oc (C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg)
+[15]) [16] (inputs/discos.tex [17] [18]
+Cap\'{\i }tulo 1.
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd)
+(C:\Users\rober\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd) [19]
+[20]
+Cap\'{\i }tulo 2.
+[21] [22]
+Cap\'{\i }tulo 3.
+[23] [24]
+Cap\'{\i }tulo 4.
+[25]) [26] (inputs/permissoes.tex [27] [28]
+Cap\'{\i }tulo 5.
+[29] [30]
+Cap\'{\i }tulo 6.
+[31] [32]
+Cap\'{\i }tulo 7.
+
+Underfull \hbox (badness 1205) in paragraph at lines 58--58
+[]\T1/lmss/m/n/24.88 (+20) GERENCIAMENTO DE ME-M”-RIA
+) [33]
+(C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Operacionais\build\main.b
+bl (main.brf) [34]
+bibitemlist
+
+! Class memoir Error: Font command \tt is not supported.
+
+See the memoir class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111 
+      
+!  ==> Fatal error occurred, no output PDF file produced!
+Transcript written on C:\Users\rober\Desktop\trabalho_so\Trabalho-Sistemas-Oper
+acionais\build\main.log.

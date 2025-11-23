@@ -1,31 +1,69 @@
-\documentclass[
-12pt, a4paper, twoside, chapter=TITLE, subsection=TITLE, section=TITLE, subsubsection=TITLE, subsubsubsection=TITLE, english, german, brazil
+\PassOptionsToPackage{backref=page}{hyperref}
+\documentclass
+[
+    12pt, a4paper, twoside, chapter=TITLE, subsection=TITLE, section=TITLE, subsubsection=TITLE, subsubsubsection=TITLE, english, brazilian
 ]{abntex2}
 
+% Configurar hyperref antes de ser carregado pela classe/pacotes
+    
 \usepackage[utf8]{inputenc}
-\usepackage[brazilian,hyperpageref]{backref}
+    
+% backref será configurado via hyperref (em pacotes.sty) para evitar conflitos
+% Removido carregamento explícito do pacote `backref` para evitar conflito de opções;
+% configure o backref via opções do hyperref (por exemplo, em pacotes.sty ou com \PassOptionsToPackage).
+
 \usepackage{pacotes}
 
-\titulo{Trabalho Sistemas Operacionais \\ 2° Bimestre}
-\tituloestrangeiro{--texto do título estrangeiro--}
+% Compatibilidade com memoir: evitar erro "Font command \tt is not supported"
+% Alguns estilos/arquivos antigos ainda usam \tt; redirecionamos para \ttfamily
+\let\tt\ttfamily
+
+% Evitar erro "\verb illegal in argument" em strings de PDF (bookmarks etc.)
+% Sanitiza comandos verbatim quando escritos em metadados pelo hyperref
+\pdfstringdefDisableCommands{%%
+    \def\verb#1{#1}%%
+    \def\texttt#1{#1}%%
+    \def\url#1{#1}%%
+}
+
+\renewcommand{\backrefpagesname}{Citado na(s) página(s):~}
+\renewcommand{\backref}{}
+\renewcommand{\backrefalt}[4]{%
+    \ifcase #1 %
+        Nenhuma citação no texto.%
+    \or
+        Citado na página #2.%
+    \else
+        Citado nas páginas #2.%
+    \fi} 
+
+\titulo{Conceitos de Sistemas Operacionais \\ 2° Bimestre}
+%\tituloestrangeiro{--texto do título estrangeiro--}
+
 \autor
 {
 Endrews Elias de Oliveira Prado \\
 Jhuan da Matta Julião de Oliveira \\
 Lucas Mattos Canela \\
+Pedro Henrique de Oliveira Vieira Martins \\
 Robert Valadão da Silva \\
 Victor Griffo de Andrade Faria
 }
 \orientador{Jean-Remi}
-\coorientador{}
+%\coorientador{}
 \data{\today}
 \instituicao{
     Universidade de Vila Velha (UVV) \par
     Graduação em Ciência da Computação
 }
+
 \tipotrabalho{Trabalho Acadêmico}
 \local{Vila Velha, ES}
+
 %\preambulo{--Trabalho acadêmico como requisito parcial para aprovação na disciplina Sistemas Operacionais--.}
+\pagestyle{abntheadings}
+\aliaspagestyle{chapter}{abntheadings}
+
 
 % informações do PDF
 \makeatletter
@@ -33,13 +71,13 @@ Victor Griffo de Andrade Faria
     pdftitle={\@title},
     pdfauthor={\@author},
     pdfsubject={\imprimirpreambulo},
-    pdfkeywords={PALAVRAS}{CHAVE}{EM}{PORTUGUES},
+    pdfkeywords={PALAVRAS, CHAVE, EM, PORTUGUES},
     pdfcreator={LaTeX with abnTeX2},
     colorlinks=true,
     linkcolor=blue,
     citecolor=blue,
-    urlcolor=blue
-    }
+    urlcolor=blue,
+}
 \makeatother
 \setlength{\absparsep}{18pt} % ajusta o espaçamento dos parágrafos do resumo
 
@@ -58,43 +96,47 @@ Victor Griffo de Andrade Faria
 % ---
 % entradas do glossario
 % ---
-\newglossaryentry{pai}{
-                 name={pai},
-                 plural={pai},
-                 description={este é uma entrada pai, que possui outras
-                 subentradas.} }
+\newglossaryentry{latex}{name={LaTeX},description={ferramenta de computador para autoria dedocumentos criada por D. E. Knuth} }
 
-\newglossaryentry{componente}{
-                 name={componente},
-                 plural={componentes},
-                 parent=pai,
-                 description={descriação da entrada componente.} }
- 
-\newglossaryentry{filho}{
-                 name={filho},
-                 plural={filhos},
-                 parent=pai,
-                 description={isto é uma entrada filha da entrada de nome
-                 \gls{pai}. Trata-se de uma entrada irmã da entrada
-                 \gls{componente}.} }
- 
-\newglossaryentry{equilibrio}{
-                 name={equilíbrio da configuração},
-                 see=[veja também]{componente},
-                 description={consistência entre os \glspl{componente}}
-                 }
+\newglossaryentry{abntex2}{name={abnTeX2},see=latex,description={suíte para LaTeX que atende os requisitos dasnormas da ABNT para elaboração de documentos técnicos e científicos brasileiros} }
 
-\newglossaryentry{latex}{
-                 name={LaTeX},
-                 description={ferramenta de computador para autoria de
-                 documentos criada por D. E. Knuth} }
-
-\newglossaryentry{abntex2}{
-                 name={abnTeX2},
-                 see=latex,
-                 description={suíte para LaTeX que atende os requisitos das
-                 normas da ABNT para elaboração de documentos técnicos e científicos brasileiros} }
-% % ---
+% --- Termos técnicos adicionados ao glossário ---
+\newglossaryentry{boot}{name={boot}, description={processo de inicialização que prepara o kernel para execução}}
+\newglossaryentry{bios}{name={BIOS}, description={firmware legado em ROM que realiza POST e inicia o boot}, see={boot}}
+\newglossaryentry{uefi}{name={UEFI}, description={padrão moderno de firmware com NVRAM e partição EFI}, see={boot}}
+\newglossaryentry{esp}{name={ESP}, description={EFI System Partition: partição FAT usada por carregadores UEFI}, see={uefi}}
+\newglossaryentry{mbr}{name={MBR}, description={Master Boot Record: setor inicial com código de boot e tabela simples de partições}, see={gpt}}
+\newglossaryentry{gpt}{name={GPT}, description={GUID Partition Table: esquema com endereçamento 64 bits e redundância}, see={mbr}}
+\newglossaryentry{bootloader}{name={bootloader}, description={programa (ex: GRUB) que carrega e transfere controle ao kernel}, see={boot}}
+\newglossaryentry{initramfs}{name={initramfs}, description={sistema de arquivos temporário usado na fase inicial do kernel}, see={boot}}
+\newglossaryentry{hdd}{name={HDD}, description={disco magnético com trilhas, setores e cilindros}, see={ssd}}
+\newglossaryentry{ssd}{name={SSD}, description={unidade de estado sólido baseada em memória flash}, see={nvme}}
+\newglossaryentry{nvme}{name={NVMe}, description={protocolo otimizado para acesso a SSD via PCIe}, see={ssd}}
+\newglossaryentry{chs}{name={CHS}, description={Cylinder-Head-Sector: antigo esquema físico de endereçamento}, see={lba}}
+\newglossaryentry{lba}{name={LBA}, description={Logical Block Addressing: endereçamento linear de blocos}, see={chs}}
+\newglossaryentry{inode}{name={inode}, description={estrutura de metadados de arquivo (permissões, apontadores)}}
+\newglossaryentry{bloco}{name={bloco}, description={unidade mínima de alocação em sistemas de arquivos}, see={inode}}
+\newglossaryentry{journaling}{name={journaling}, description={registro de transações para recuperação consistente}, see={inode}}
+\newglossaryentry{cow}{name={Copy-on-Write}, description={adiar cópia até modificação garantindo integridade}, see={inode}}
+\newglossaryentry{hardlink}{name={hard link}, description={nome adicional para o mesmo inode; mantém dados se o outro nome é removido}}
+\newglossaryentry{softlink}{name={link simbólico}, description={arquivo que referencia caminho alvo; quebra se alvo removido}}
+\newglossaryentry{uid}{name={UID}, description={identificador único de usuário}, see={gid}}
+\newglossaryentry{gid}{name={GID}, description={identificador de grupo agregando usuários}, see={uid}}
+\newglossaryentry{sudo}{name={sudo}, description={mecanismo para executar comandos com privilégios elevados}, see={root}}
+\newglossaryentry{root}{name={root}, description={usuário administrativo com UID 0}, see={sudo}}
+\newglossaryentry{pid}{name={PID}, description={identificador único de processo}, see={pcb}}
+\newglossaryentry{pcb}{name={PCB}, description={Process Control Block: contexto do processo}, see={pid}}
+\newglossaryentry{contexto}{name={troca de contexto}, description={alternância da CPU entre processos salvando/restaurando estado}, see={pid}}
+\newglossaryentry{mmu}{name={MMU}, description={unidade que traduz endereços virtuais em físicos}, see={paginacao}}
+\newglossaryentry{memoria-virtual}{name={memória virtual}, description={abstração de endereços isolados por processo}, see={mmu}}
+\newglossaryentry{paginacao}{name={paginação}, description={divisão da memória em páginas fixas}, see={segmentacao}}
+\newglossaryentry{segmentacao}{name={segmentação}, description={memória organizada em segmentos lógicos variáveis}, see={paginacao}}
+\newglossaryentry{swapping}{name={swapping}, description={movimentação de páginas/processos inativos para disco}}
+\newglossaryentry{dram}{name={DRAM}, description={memória dinâmica principal que exige refresh}, see={sram}}
+\newglossaryentry{sram}{name={SRAM}, description={memória estática rápida usada em cache}, see={dram}}
+\newglossaryentry{cache}{name={cache}, description={memória rápida que armazena dados frequentes reduzindo latência}, see={sram}}
+% Estilo do glossário
+\setglossarystyle{list}
 
 % % ---
 % % Exemplo de configurações do glossairo
@@ -103,10 +145,11 @@ Victor Griffo de Andrade Faria
 
 
 \begin{document}
+
 \pretextual 
 \imprimircapa
 \imprimirfolhaderosto[]* % talvez dê merda na numeração das páginas
-\makeatother\cleardoublepage
+%\cleardoublepage
 
 % ---
 % Epígrafe
@@ -124,36 +167,67 @@ Victor Griffo de Andrade Faria
 \end{epigrafe}
 % ---
 
-\begin{resumo}[Resumo] 
-    ------- Resumo em português. -----  \\
+\begin{resumo}[Resumo]
+    Este trabalho apresenta uma visão sintética dos principais componentes e
+    mecanismos de sistemas operacionais modernos, tomando o Linux como
+    referência conceitual. Iniciamos pelo processo de boot, contrastando BIOS
+    legado e UEFI, destacando o papel do firmware na inicialização do kernel e
+    o uso de partições EFI. Em seguida abordamos armazenamento: diferenças
+    estruturais entre HDD (trilhas, setores, cilindros) e SSD (páginas, blocos,
+    NVMe) e implicações de desempenho. O particionamento é discutido via MBR e
+    GPT, incluindo limitações, endereçamento e integridade. Examinamos a camada
+    de sistemas de arquivos (inodes, blocos, metadados) e famílias clássicas e
+    modernas (Ext, FAT, NTFS, BtrFS, ZFS) com ênfase em journaling e Copy-on-Write.
+    Tratamos gestão de usuários e permissões (UID, GID, bits r/w/x), processo e
+    segurança via sudo. No gerenciamento de processos descrevemos PID, PCB e
+    estados (execução, pronto, bloqueado) e a troca de contexto. Finalizamos com
+    técnicas de gerenciamento de memória primária: endereçamento virtual,
+    paginação, segmentação e swapping, relacionando isolamento e eficiência. A
+    síntese integra camadas de hardware e software para contextualizar decisões
+    de projeto que impactam desempenho, segurança e confiabilidade.
     \vspace{\onelineskip}
-    \noindent
-    \textbf{Palavras-chave}: latex. abntex. editoração de texto.
+    \noindent\textbf{Palavras-chave}: sistemas operacionais; boot; UEFI; MBR; GPT; HDD; SSD; sistemas de arquivos; processos; memória; permissões.
 \end{resumo}
 
 \begin{resumo}[Abstract]
     \begin{otherlanguage*}{english}
-        ------ abstract. ---- \\
+        This report provides a concise overview of core components and
+        mechanisms of modern operating systems with Linux as the guiding
+        reference. It starts with the boot process, contrasting legacy BIOS and
+        UEFI, outlining firmware responsibilities and the role of the EFI
+        system partition. Storage is examined through structural differences
+        between HDDs (tracks, sectors, cylinders) and SSDs (flash pages, blocks,
+        NVMe) and their performance implications. Disk partitioning is discussed
+        via MBR and GPT, emphasizing limitations, addressing and integrity.
+        The filesystem layer (inodes, blocks, metadata) is reviewed across
+        traditional and modern families (Ext, FAT, NTFS, BtrFS, ZFS) focusing on
+        journaling and Copy-on-Write. User and permission management (UID, GID,
+        r/w/x bits) and privilege elevation through sudo are presented. Process
+        management covers PID, PCB, execution states (running, ready, blocked)
+        and context switching. Finally, primary memory techniques—virtual
+        addressing, paging, segmentation and swapping—are related to isolation
+        and efficiency. The synthesis connects hardware and software layers to
+        contextualize design choices affecting performance, security and
+        reliability.
         \vspace{\onelineskip}
-        \noindent
-        \textbf{Keywords}: latex. abntex. publication de textes.
+        \noindent\textbf{Keywords}: operating systems; boot; UEFI; MBR; GPT; HDD; SSD; filesystems; processes; memory; permissions.
     \end{otherlanguage*}
 \end{resumo}
 
 
 \pdfbookmark[0]{\listfigurename}{lof}
-\listoffigures*
+    \listoffigures*
 \cleardoublepage
 
 
-% \pdfbookmark[0]{\listtablename}{lot}
-% \listoftables*
-% \cleardoublepage
+\pdfbookmark[0]{\listtablename}{lot}
+    \listoftables*
+\cleardoublepage
 
 
-\begin{siglas}
-    \item[sigla] significado da sigla;
-\end{siglas}
+% \begin{siglas}
+%     \item[sigla] significado da sigla;
+% \end{siglas}
 
 
 % \begin{simbolos}
@@ -162,36 +236,27 @@ Victor Griffo de Andrade Faria
 
 
 \pdfbookmark[0]{\contentsname}{toc}
-\tableofcontents*
+% Versão sem estrela para garantir exibição do Sumário
+    \tableofcontents*
 \cleardoublepage
 
 
 \textual % a partir daqui são os elementos textuais.
+
 % \include{XXX} % adicionar os .tex da pasta inputs
+\include{inputs/discos.tex}
+\include{inputs/permissoes.tex}
+\include{inputs/exercicios.tex}
 
 \postextual % a partir daqui são os elementos pós-textuais.
-\bibliographystyle{abntex2-alf}
-\bibliography{ref} % O alerta amarelo ("Empty `thebibliography' environment on input line 8.") é porque não há citações ainda
 
+% Removido nocite genérico; citações agora inseridas diretamente no texto.
 
-\part{Discos}
+\bibliographystyle{abntex2-alf} % estilo abntex2 de referências bibliográficas
+\bibliography{ref} % inclui o arquivo ref.bib
 
-\chapter{Processo de Boot}
-
-\chapter{Memória Secundária}
-
-\chapter{Partições}
-
-\chapter{Sistema de Arquivos}
-
-\part{Permissões}
-
-\chapter{Grupos, Usuários, Poderes e Permissões}
-
-\chapter{Gerenciamento de Processos}
-
-\chapter{Gerenciamento de Memória Primária}
-
+% garantir que todas as entradas do glossário sejam impressas, mesmo sem citações
+\glsaddall
 \addcontentsline{toc}{chapter}{\glossaryname}
 \printglossaries
 

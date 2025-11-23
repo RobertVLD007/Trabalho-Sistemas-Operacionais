@@ -5,4 +5,66 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.7 }
 
+\bibitem[Bonwick e Moore 2007]{bonwick:zfs}
+\abntrefinfo{Bonwick e Moore}{BONWICK; MOORE}{2007}
+{BONWICK, J.; MOORE, B. \emph{ZFS: The Last Word in File Systems}.
+[S.l.], 2007. White paper.}
+
+\bibitem[Corporation 2010]{gpt:efi}
+\abntrefinfo{Corporation}{CORPORATION}{2010}
+{CORPORATION, I. \emph{GUID Partition Table (GPT) Disk Layout}. 2010. Technical
+  documentation.
+Disponível em especificações EFI/UEFI.}
+
+\bibitem[Forum 2023]{uefi:spec}
+\abntrefinfo{Forum}{FORUM}{2023}
+{FORUM, U. \emph{Unified Extensible Firmware Interface (UEFI) Specification}.
+[S.l.], 2023.}
+
+\bibitem[Love 2010]{love:linuxkernel}
+\abntrefinfo{Love}{LOVE}{2010}
+{LOVE, R. \emph{Linux Kernel Development}. 3. ed. [S.l.]: Addison-Wesley
+  Professional, 2010.}
+
+\bibitem[Organization 2023]{nvme:spec}
+\abntrefinfo{Organization}{ORGANIZATION}{2023}
+{ORGANIZATION, N.~E. \emph{NVM Express Base Specification}.
+[S.l.], 2023.}
+
+\bibitem[Patterson e Hennessy 2014]{patterson:hennessy}
+\abntrefinfo{Patterson e Hennessy}{PATTERSON; HENNESSY}{2014}
+{PATTERSON, D.~A.; HENNESSY, J.~L. \emph{Computer Organization and Design: The
+  Hardware/Software Interface}. 5. ed. [S.l.]: Morgan Kaufmann, 2014.}
+
+\bibitem[Rodeh, Bacik e Mason 2013]{rodeh:btrfs}
+\abntrefinfo{Rodeh, Bacik e Mason}{RODEH; BACIK; MASON}{2013}
+{RODEH, O.; BACIK, J.; MASON, C. Btrfs: The linux b-tree file system.
+\emph{ACM Transactions on Storage}, v.~9, n.~3, p. 1--32, 2013.}
+
+\bibitem[Rosenblum e Ousterhout 1991]{rosenblum:lfs}
+\abntrefinfo{Rosenblum e Ousterhout}{ROSENBLUM; OUSTERHOUT}{1991}
+{ROSENBLUM, M.; OUSTERHOUT, J.~K. The design and implementation of a
+  log-structured file system. In:  \emph{Proceedings of the 13th ACM Symposium
+  on Operating Systems Principles (SOSP)}. [S.l.: s.n.], 1991. p. 1--15.}
+
+\bibitem[Silberschatz, Galvin e Gagne 2018]{silberschatz:osc}
+\abntrefinfo{Silberschatz, Galvin e Gagne}{SILBERSCHATZ; GALVIN; GAGNE}{2018}
+{SILBERSCHATZ, A.; GALVIN, P.~B.; GAGNE, G. \emph{Operating System Concepts}.
+  10. ed. [S.l.]: Wiley, 2018.}
+
+\bibitem[Stallings 2018]{stallings:os}
+\abntrefinfo{Stallings}{STALLINGS}{2018}
+{STALLINGS, W. \emph{Operating Systems: Internals and Design Principles}. 9.
+  ed. [S.l.]: Pearson, 2018.}
+
+\bibitem[Tanenbaum e Bos 2015]{tanenbaum:mos}
+\abntrefinfo{Tanenbaum e Bos}{TANENBAUM; BOS}{2015}
+{TANENBAUM, A.~S.; BOS, H. \emph{Modern Operating Systems}. 4. ed. [S.l.]:
+  Pearson, 2015.}
+
+\bibitem[Tweedie 2000]{tweedie:ext3}
+\abntrefinfo{Tweedie}{TWEEDIE}{2000}
+{TWEEDIE, S.~C. Ext3, journaling file system. In:  \emph{Proceedings of the
+  Linux 2000 Expo}. London, UK: [s.n.], 2000.}
+
 \end{thebibliography}
