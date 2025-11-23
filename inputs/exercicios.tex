@@ -90,3 +90,14 @@ exiba as seguintes informações sobre o arquivo: número de caracteres, número
         \item Sair
     \end{enumerate}
     Leia a opção e execute o comando correspondente; valide entradas inválidas.
+
+
+\chapter{Exercícios Resolvidos}
+\IfFileExists{inputs/exercicios_resolvidos.pdf}{%
+    \includepdf[pages={4-13}]{inputs/exercicios_resolvidos.pdf}%
+}{%
+    \PackageWarning{exercicios}{File 'exercicios_resolvidos.pdf' not found; skipping included solved exercises.}%
+    \begin{center}
+        \fbox{\parbox{0.8\linewidth}{\centering\textbf{Arquivo 'exercicios_resolvidos.pdf' não encontrado. Coloque o PDF no mesmo diretório do .tex ou atualize o caminho em \texttt{\string\includepdf}.}}}
+    \end{center}
+}

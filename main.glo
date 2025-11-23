@@ -28,39 +28,39 @@
 \glossaryentry{DRAM?\glsnextpages \glossentry{dram}|glsseeformat["\seename ]{sram}}{Z}
 \glossaryentry{SRAM?\glsnextpages \glossentry{sram}|glsseeformat["\seename ]{dram}}{Z}
 \glossaryentry{cache?\glsnextpages \glossentry{cache}|glsseeformat["\seename ]{sram}}{Z}
-\glossaryentry{LaTeX?\glossentry{latex}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{abnTeX2?\glsnextpages \glossentry{abntex2}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{boot?\glossentry{boot}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{BIOS?\glsnextpages \glossentry{bios}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{UEFI?\glsnextpages \glossentry{uefi}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{ESP?\glsnextpages \glossentry{esp}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{MBR?\glsnextpages \glossentry{mbr}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{GPT?\glsnextpages \glossentry{gpt}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{bootloader?\glsnextpages \glossentry{bootloader}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{initramfs?\glsnextpages \glossentry{initramfs}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{HDD?\glsnextpages \glossentry{hdd}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{SSD?\glsnextpages \glossentry{ssd}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{NVMe?\glsnextpages \glossentry{nvme}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{CHS?\glsnextpages \glossentry{chs}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{LBA?\glsnextpages \glossentry{lba}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{inode?\glossentry{inode}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{bloco?\glsnextpages \glossentry{bloco}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{journaling?\glsnextpages \glossentry{journaling}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{Copy-on-Write?\glsnextpages \glossentry{cow}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{hard link?\glossentry{hardlink}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{link simbólico?\glossentry{softlink}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{UID?\glsnextpages \glossentry{uid}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{GID?\glsnextpages \glossentry{gid}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{sudo?\glsnextpages \glossentry{sudo}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{root?\glsnextpages \glossentry{root}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{PID?\glsnextpages \glossentry{pid}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{PCB?\glsnextpages \glossentry{pcb}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{troca de contexto?\glsnextpages \glossentry{contexto}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{MMU?\glsnextpages \glossentry{mmu}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{memória virtual?\glsnextpages \glossentry{memoria-virtual}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{paginação?\glsnextpages \glossentry{paginacao}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{segmentação?\glsnextpages \glossentry{segmentacao}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{swapping?\glossentry{swapping}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{DRAM?\glsnextpages \glossentry{dram}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{SRAM?\glsnextpages \glossentry{sram}|setentrycounter[]{page}"\glsnumberformat}{41}
-\glossaryentry{cache?\glsnextpages \glossentry{cache}|setentrycounter[]{page}"\glsnumberformat}{41}
+\glossaryentry{LaTeX?\glossentry{latex}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{abnTeX2?\glsnextpages \glossentry{abntex2}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{boot?\glossentry{boot}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{BIOS?\glsnextpages \glossentry{bios}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{UEFI?\glsnextpages \glossentry{uefi}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{ESP?\glsnextpages \glossentry{esp}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{MBR?\glsnextpages \glossentry{mbr}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{GPT?\glsnextpages \glossentry{gpt}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{bootloader?\glsnextpages \glossentry{bootloader}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{initramfs?\glsnextpages \glossentry{initramfs}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{HDD?\glsnextpages \glossentry{hdd}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{SSD?\glsnextpages \glossentry{ssd}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{NVMe?\glsnextpages \glossentry{nvme}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{CHS?\glsnextpages \glossentry{chs}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{LBA?\glsnextpages \glossentry{lba}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{inode?\glossentry{inode}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{bloco?\glsnextpages \glossentry{bloco}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{journaling?\glsnextpages \glossentry{journaling}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{Copy-on-Write?\glsnextpages \glossentry{cow}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{hard link?\glossentry{hardlink}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{link simbólico?\glossentry{softlink}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{UID?\glsnextpages \glossentry{uid}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{GID?\glsnextpages \glossentry{gid}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{sudo?\glsnextpages \glossentry{sudo}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{root?\glsnextpages \glossentry{root}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{PID?\glsnextpages \glossentry{pid}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{PCB?\glsnextpages \glossentry{pcb}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{troca de contexto?\glsnextpages \glossentry{contexto}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{MMU?\glsnextpages \glossentry{mmu}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{memória virtual?\glsnextpages \glossentry{memoria-virtual}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{paginação?\glsnextpages \glossentry{paginacao}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{segmentação?\glsnextpages \glossentry{segmentacao}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{swapping?\glossentry{swapping}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{DRAM?\glsnextpages \glossentry{dram}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{SRAM?\glsnextpages \glossentry{sram}|setentrycounter[]{page}"\glsnumberformat}{53}
+\glossaryentry{cache?\glsnextpages \glossentry{cache}|setentrycounter[]{page}"\glsnumberformat}{53}
